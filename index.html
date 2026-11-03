@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Global Pulse News - Latest world, Saudi Arabia, business and technology news in English and Arabic.">
+<meta name="theme-color" content="#101827">
+<title>Global Pulse News | World News</title>
+<link rel="alternate" hreflang="en" href="./">
+<link rel="alternate" hreflang="ar" href="./">
+<style>
+:root{--bg:#f3f6fb;--card:#fff;--ink:#17243a;--muted:#718096;--blue:#1765d1;--line:#e4eaf2}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:Arial,sans-serif}
+header{background:#101827;color:white;padding:22px max(5%,calc((100% - 1200px)/2))}
+.brand{font-size:27px;font-weight:800;letter-spacing:-1px}
+.brand span{color:#56a5ff}
+header p{color:#bac8d9;margin:7px 0 0}
+nav{background:#19263b;padding:12px 5%;display:flex;gap:18px;overflow:auto}
+nav a{color:white;text-decoration:none;white-space:nowrap;font-size:14px}
+main{max-width:1200px;margin:25px auto;padding:0 16px}
+.tools{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:20px}
+input,button{padding:12px;border:1px solid var(--line);border-radius:9px;font-size:14px}
+input{flex:1;min-width:180px}
+button{background:var(--blue);color:white;border:0;cursor:pointer}
+button.secondary{background:#e5edf9;color:#174d92}
+h2{font-size:22px;margin:20px 0}
+.status{font-size:13px;color:var(--muted);margin:10px 0}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px}
+article{background:var(--card);border:1px solid var(--line);border-radius:13px;padding:18px;display:flex;flex-direction:column;min-height:190px}
+.tag{font-size:11px;color:var(--blue);font-weight:bold;text-transform:uppercase}
+article h3{font-size:17px;line-height:1.45;margin:12px 0}
+.meta{color:var(--muted);font-size:12px;margin-top:auto;line-height:1.7}
+article a{color:var(--blue);font-weight:bold;text-decoration:none;margin-top:12px;font-size:13px}
+footer{text-align:center;padding:35px;color:var(--muted);font-size:13px}
+.empty{background:white;padding:25px;border-radius:12px;color:var(--muted)}
+[dir=rtl] article{text-align:right}
+@media(max-width:600px){.brand{font-size:23px}main{margin:16px auto}.grid{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header>
+<div class="brand">GLOBAL <span>PULSE</span> NEWS</div>
+<p id="subtitle">Independent worldwide news coverage</p>
+</header>
+<nav>
+<a href="#" data-cat="All">Top News</a>
+<a href="#" data-cat="World">World</a>
+<a href="#" data-cat="Saudi Arabia">Saudi Arabia</a>
+<a href="#" data-cat="Politics">Politics</a>
+<a href="#" data-cat="Business">Business</a>
+<a href="#" data-cat="Technology">Technology</a>
+<a href="#" data-cat="Science">Science</a>
+<a href="#" data-cat="Sports">Sports</a>
+<a href="#" data-cat="Health">Health</a>
+<a href="#" data-cat="Environment">Environment</a>
+</nav>
+<main>
+<div class="tools">
+<input id="search" placeholder="Search news...">
+<button id="lang">العربية</button>
+<button class="secondary" id="refresh">Refresh</button>
+</div>
+<h2 id="heading">Latest News</h2>
+<div class="status" id="status">Loading news...</div>
+<section class="grid" id="news"></section>
+</main>
+<footer>
+<strong>GLOBAL PULSE NEWS</strong>
+<p>News links and source attribution are provided for readers. Articles are not independently verified unless explicitly stated.</p>
+<p>© 2026 Global Pulse News</p>
+</footer>
+<script>
+let all=[],language='en',category='All';
+const $=id=>document.getElementById(id);
+function safe(v){return String(v??'')}
+function date(v){if(!v)return '';let d=new Date(v);return isNaN(d)?v:d.toLocaleString()}
+function render(){
+let q=$('search').value.toLowerCase();
+let items=all.filter(a=>{
+let text=[a.title,a.publisher,a.category].join(' ').toLowerCase();
+return text.includes(q)&&(category==='All'||safe(a.category).toLowerCase()===category.toLowerCase());
+});
+$('news').replaceChildren();
+$('status').textContent=items.length+' articles loaded • '+(language==='en'?'English':'Arabic');
+if(!items.length){$('news').innerHTML='<div class="empty">No matching news found.</div>';return}
+items.slice(0,150).forEach(a=>{
+let card=document.createElement('article');
+let tag=document.createElement('div');tag.className='tag';tag.textContent=safe(a.category||'News');
+let title=document.createElement('h3');title.textContent=safe(a.title);
+let meta=document.createElement('div');meta.className='meta';
+meta.textContent=safe(a.publisher)+' • '+date(a.published);
+let status=document.createElement('div');status.className='meta';
+status.textContent=a.verified===true?'Verification status: Verified':'Verification status: Pending';
+card.append(tag,title,meta,status);
+if(a.link&&/^https?:\/\//i.test(a.link)){
+let link=document.createElement('a');link.href=a.link;link.target='_blank';link.rel='noopener noreferrer';link.textContent=language==='ar'?'اقرأ من المصدر ←':'READ SOURCE →';card.append(link);
+}
+$('news').append(card);
+});
+}
+async function load(){
+$('status').textContent='Loading news data...';
+try{
+let r=await fetch('./news/worldwide.json?v='+Date.now());
+if(!r.ok)throw Error('HTTP '+r.status);
+let d=await r.json();
+let source=language==='ar'?d.arabic:d.english;
+all=Array.isArray(source)?source:(Array.isArray(d.articles)?d.articles:[]);
+if(!all.length)throw Error('No articles in selected language');
+document.documentElement.lang=language;
+document.documentElement.dir=language==='ar'?'rtl':'ltr';
+$('heading').textContent=language==='ar'?'آخر الأخبار':'Latest News';
+$('subtitle').textContent=language==='ar'?'أخبار من جميع أنحاء العالم':'Independent worldwide news coverage';
+$('search').placeholder=language==='ar'?'ابحث عن الأخبار...':'Search news...';
+$('lang').textContent=language==='ar'?'English':'العربية';
+render();
+}catch(e){
+$('status').textContent='News data could not load: '+e.message;
+$('news').innerHTML='<div class="empty">Please check that news/worldwide.json exists and is valid.</div>';
+}
+}
+$('search').addEventListener('input',render);
+$('lang').onclick=()=>{language=language==='en'?'ar':'en';load()};
+$('refresh').onclick=load;
+document.querySelectorAll('nav a').forEach(a=>a.onclick=e=>{
+e.preventDefault();category=a.dataset.cat;render();
+});
+load();
+</script>
+</body>
+</html>
