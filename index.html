@@ -92,7 +92,14 @@ let meta=document.createElement('div');meta.className='meta';
 meta.textContent=safe(a.publisher)+' • '+date(a.published);
 let status=document.createElement('div');status.className='meta';
 status.textContent=a.verified===true?'Verification status: Verified':'Verification status: Pending';
-card.append(tag,title,meta,status);
+card.append(tag,title,meta);
+if(a.summary && a.summary.trim()){
+let summary=document.createElement('p');
+summary.className='summary';
+summary.textContent=a.summary;
+card.append(summary);
+}
+card.append(status);
 if(a.link&&/^https?:\/\//i.test(a.link)){
 let link=document.createElement('a');link.href=a.link;link.target='_blank';link.rel='noopener noreferrer';link.textContent=language==='ar'?'اقرأ من المصدر ←':'READ SOURCE →';card.append(link);
 }

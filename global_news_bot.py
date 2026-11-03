@@ -1,3 +1,4 @@
+import html
 import feedparser
 import json
 import os
@@ -66,8 +67,12 @@ def collect():
 
                     seen.add(key)
 
+                    raw_summary = item.get("summary", item.get("description", ""))
+                    summary = clean(html.unescape(re.sub(r"<[^>]+>", " ", str(raw_summary))))[:500]
+
                     articles.append({
                         "title": title,
+                        "summary": summary,
                         "language": language,
                         "category": category,
                         "publisher": publisher,
