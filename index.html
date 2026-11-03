@@ -36,6 +36,9 @@ footer{text-align:center;padding:35px;color:var(--muted);font-size:13px}
 .empty{background:white;padding:25px;border-radius:12px;color:var(--muted)}
 [dir=rtl] article{text-align:right}
 @media(max-width:600px){.brand{font-size:23px}main{margin:16px auto}.grid{grid-template-columns:1fr}}
+
+.news-card{cursor:pointer;transition:transform .18s,box-shadow .18s}.news-card:hover{transform:translateY(-3px);box-shadow:0 8px 22px #17243a18}.news-card .summary{color:#53647a;font-size:14px;line-height:1.6}.detail-panel{background:white;border:1px solid var(--line);border-radius:14px;padding:22px;margin:18px 0}.detail-panel h1{font-size:26px;line-height:1.45}.detail-summary{font-size:16px;line-height:1.9;white-space:pre-wrap}.related-title{margin-top:32px}.back-button{margin:12px 0}
+
 </style>
 </head>
 <body>
@@ -64,6 +67,7 @@ footer{text-align:center;padding:35px;color:var(--muted);font-size:13px}
 <h2 id="heading">Latest News</h2>
 <div class="status" id="status">Loading news...</div>
 <section class="grid" id="news"></section>
+<section id="detail" hidden></section>
 </main>
 <footer>
 <strong>GLOBAL PULSE NEWS</strong>
@@ -71,66 +75,16 @@ footer{text-align:center;padding:35px;color:var(--muted);font-size:13px}
 <p>© 2026 Global Pulse News</p>
 </footer>
 <script>
-let all=[],language='en',category='All';
+let all=[],allArticles=[],language='en',category='All';
 const $=id=>document.getElementById(id);
 function safe(v){return String(v??'')}
 function date(v){if(!v)return '';let d=new Date(v);return isNaN(d)?v:d.toLocaleString()}
-function render(){
-let q=$('search').value.toLowerCase();
-let items=all.filter(a=>{
-let text=[a.title,a.publisher,a.category].join(' ').toLowerCase();
-return text.includes(q)&&(category==='All'||safe(a.category).toLowerCase()===category.toLowerCase());
-});
-$('news').replaceChildren();
-$('status').textContent=items.length+' articles loaded • '+(language==='en'?'English':'Arabic');
-if(!items.length){$('news').innerHTML='<div class="empty">No matching news found.</div>';return}
-items.slice(0,150).forEach(a=>{
-let card=document.createElement('article');
-let tag=document.createElement('div');tag.className='tag';tag.textContent=safe(a.category||'News');
-let title=document.createElement('h3');title.textContent=safe(a.title);
-let meta=document.createElement('div');meta.className='meta';
-meta.textContent=safe(a.publisher)+' • '+date(a.published);
-card.append(tag,title,meta);
-if(a.summary && a.summary.trim()){
-let summary=document.createElement('p');
-summary.className='summary';
-summary.textContent=a.summary;
-card.append(summary);
-}
-if(a.link&&/^https?:\/\//i.test(a.link)){
-let link=document.createElement('a');link.href=a.link;link.target='_blank';link.rel='noopener noreferrer';link.textContent=language==='ar'?'اقرأ من المصدر ←':'READ SOURCE →';card.append(link);
-}
-$('news').append(card);
-});
-}
-async function load(){
-$('status').textContent='Loading news data...';
-try{
-let r=await fetch('./news/worldwide.json?v='+Date.now());
-if(!r.ok)throw Error('HTTP '+r.status);
-let d=await r.json();
-let source=language==='ar'?d.arabic:d.english;
-all=Array.isArray(source)?source:(Array.isArray(d.articles)?d.articles:[]);
-if(!all.length)throw Error('No articles in selected language');
-document.documentElement.lang=language;
-document.documentElement.dir=language==='ar'?'rtl':'ltr';
-$('heading').textContent=language==='ar'?'آخر الأخبار':'Latest News';
-$('subtitle').textContent=language==='ar'?'أخبار من جميع أنحاء العالم':'Independent worldwide news coverage';
-$('search').placeholder=language==='ar'?'ابحث عن الأخبار...':'Search news...';
-$('lang').textContent=language==='ar'?'English':'العربية';
-render();
-}catch(e){
-$('status').textContent='News data could not load: '+e.message;
-$('news').innerHTML='<div class="empty">Please check that news/worldwide.json exists and is valid.</div>';
-}
-}
-$('search').addEventListener('input',render);
-$('lang').onclick=()=>{language=language==='en'?'ar':'en';load()};
-$('refresh').onclick=load;
-document.querySelectorAll('nav a').forEach(a=>a.onclick=e=>{
-e.preventDefault();category=a.dataset.cat;render();
-});
-load();
+function isLanguage(a){let l=safe(a.language).toLowerCase();return language==='ar'?(l==='ar'||l.startsWith('arab')):(l==='en'||l.startsWith('eng'))}
+function showList(){$('detail').hidden=true;$('news').hidden=false;$('heading').hidden=false;$('search').parentElement.hidden=false;render()}
+function showDetail(a){$('news').hidden=true;$('heading').hidden=true;$('search').parentElement.hidden=true;$('detail').hidden=false;$('detail').replaceChildren();const rtl=language==='ar';const panel=document.createElement('div');panel.className='detail-panel';const back=document.createElement('button');back.className='secondary back-button';back.textContent=rtl?'→ العودة إلى الأخبار':'← Back to News';back.onclick=showList;const tag=document.createElement('div');tag.className='tag';tag.textContent=safe(a.category||'News');const title=document.createElement('h1');title.textContent=safe(a.title);const meta=document.createElement('div');meta.className='meta';meta.textContent=safe(a.publisher)+' • '+date(a.published);panel.append(back,tag,title,meta);if(a.image){const img=document.createElement('img');img.src=a.image;img.alt=safe(a.title);img.style.cssText='width:100%;max-height:380px;object-fit:cover;border-radius:12px;margin:18px 0';img.onerror=()=>img.remove();panel.append(img)}const sub=document.createElement('h3');sub.textContent=rtl?'تفاصيل الخبر':'News Details';const summary=document.createElement('p');summary.className='detail-summary';summary.textContent=safe(a.summary)||(rtl?'لا يتوفر ملخص من المصدر.':'No summary is available from the source.');panel.append(sub,summary);if(a.link&&/^https?:\/\//i.test(a.link)){const source=document.createElement('a');source.href=a.link;source.target='_blank';source.rel='noopener noreferrer';source.textContent=rtl?'اقرأ الخبر كاملاً من المصدر ←':'READ FULL STORY FROM SOURCE →';source.style.cssText='display:inline-block;margin-top:18px;color:var(--blue);font-weight:bold';panel.append(source)}$('detail').append(panel);const relatedTitle=document.createElement('h2');relatedTitle.className='related-title';relatedTitle.textContent=rtl?'أخبار ذات صلة':'Related News';$('detail').append(relatedTitle);let related=all.filter(x=>x!==a&&x.category===a.category);if(!related.length)related=all.filter(x=>x!==a);related.slice(0,8).forEach(x=>{const card=document.createElement('article');card.className='news-card';card.onclick=()=>showDetail(x);const t=document.createElement('div');t.className='tag';t.textContent=safe(x.category||'News');const h=document.createElement('h3');h.textContent=safe(x.title);const m=document.createElement('div');m.className='meta';m.textContent=safe(x.publisher)+' • '+date(x.published);card.append(t,h,m);$('detail').append(card)});window.scrollTo({top:0,behavior:'smooth'})}
+function render(){let q=$('search').value.toLowerCase();let items=all.filter(a=>{let text=[a.title,a.publisher,a.category,a.summary].join(' ').toLowerCase();return text.includes(q)&&(category==='All'||safe(a.category).toLowerCase()===category.toLowerCase())});$('news').replaceChildren();$('status').textContent=items.length+' articles loaded • '+(language==='en'?'English':'Arabic');if(!items.length){$('news').innerHTML='<div class="empty">No matching news found.</div>';return}items.slice(0,150).forEach(a=>{let card=document.createElement('article');card.className='news-card';card.tabIndex=0;card.setAttribute('role','button');card.onclick=()=>showDetail(a);card.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();showDetail(a)}};let tag=document.createElement('div');tag.className='tag';tag.textContent=safe(a.category||'News');let title=document.createElement('h3');title.textContent=safe(a.title);let meta=document.createElement('div');meta.className='meta';meta.textContent=safe(a.publisher)+' • '+date(a.published);card.append(tag,title,meta);if(a.summary&&a.summary.trim()){let summary=document.createElement('p');summary.className='summary';summary.textContent=a.summary;card.append(summary)}let open=document.createElement('div');open.className='tag';open.style.marginTop='12px';open.textContent=language==='ar'?'اضغط لقراءة التفاصيل ←':'CLICK TO READ DETAILS →';card.append(open);$('news').append(card)})}
+async function load(){$('status').textContent='Loading news data...';$('detail').hidden=true;$('news').hidden=false;$('heading').hidden=false;$('search').parentElement.hidden=false;try{let r=await fetch('./news/worldwide.json?v='+Date.now());if(!r.ok)throw Error('HTTP '+r.status);let d=await r.json();allArticles=Array.isArray(d.articles)?d.articles:[];if(!allArticles.length){let source=language==='ar'?d.arabic:d.english;allArticles=Array.isArray(source)?source:[]}all=allArticles.filter(isLanguage);if(!all.length)throw Error('No articles found for selected language');category='All';document.documentElement.lang=language;document.documentElement.dir=language==='ar'?'rtl':'ltr';$('heading').textContent=language==='ar'?'آخر الأخبار':'Latest News';$('subtitle').textContent=language==='ar'?'أخبار من جميع أنحاء العالم':'Independent worldwide news coverage';$('search').placeholder=language==='ar'?'ابحث عن الأخبار...':'Search news...';$('lang').textContent=language==='ar'?'English':'العربية';render()}catch(e){$('status').textContent='News data could not load: '+e.message;$('news').innerHTML='<div class="empty">Please check that news/worldwide.json exists and is valid.</div>'}}
+$('search').addEventListener('input',render);$('lang').onclick=()=>{language=language==='en'?'ar':'en';load()};$('refresh').onclick=load;document.querySelectorAll('nav a').forEach(a=>a.onclick=e=>{e.preventDefault();category=a.dataset.cat;showList()});load();
 </script>
 </body>
 </html>
