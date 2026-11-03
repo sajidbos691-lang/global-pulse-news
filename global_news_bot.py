@@ -78,8 +78,6 @@ def collect():
                         "publisher": publisher,
                         "link": link,
                         "published": item.get("published", ""),
-                        "status": "PENDING_VERIFICATION",
-                        "verified": False
                     })
 
             except Exception as error:

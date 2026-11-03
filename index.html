@@ -67,7 +67,7 @@ footer{text-align:center;padding:35px;color:var(--muted);font-size:13px}
 </main>
 <footer>
 <strong>GLOBAL PULSE NEWS</strong>
-<p>News links and source attribution are provided for readers. Articles are not independently verified unless explicitly stated.</p>
+<p>Latest worldwide headlines and summaries from available news feeds. Follow the source link for full coverage.</p>
 <p>© 2026 Global Pulse News</p>
 </footer>
 <script>
@@ -90,8 +90,6 @@ let tag=document.createElement('div');tag.className='tag';tag.textContent=safe(a
 let title=document.createElement('h3');title.textContent=safe(a.title);
 let meta=document.createElement('div');meta.className='meta';
 meta.textContent=safe(a.publisher)+' • '+date(a.published);
-let status=document.createElement('div');status.className='meta';
-status.textContent=a.verified===true?'Verification status: Verified':'Verification status: Pending';
 card.append(tag,title,meta);
 if(a.summary && a.summary.trim()){
 let summary=document.createElement('p');
@@ -99,7 +97,6 @@ summary.className='summary';
 summary.textContent=a.summary;
 card.append(summary);
 }
-card.append(status);
 if(a.link&&/^https?:\/\//i.test(a.link)){
 let link=document.createElement('a');link.href=a.link;link.target='_blank';link.rel='noopener noreferrer';link.textContent=language==='ar'?'اقرأ من المصدر ←':'READ SOURCE →';card.append(link);
 }
