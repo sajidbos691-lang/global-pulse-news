@@ -67,12 +67,34 @@ def collect():
 
                     seen.add(key)
 
-                    raw_summary = item.get("summary", item.get("description", ""))
-                    summary = clean(html.unescape(re.sub(r"<[^>]+>", " ", str(raw_summary))))[:500]
-
+                    text_parts = []
+                    for field in ("content", "summary", "description"):
+                        value = item.get(field, "")
+                        if isinstance(value, list):
+                            for entry in value:
+                                if isinstance(entry, dict):
+                                    text_parts.append(entry.get("value", ""))
+                        elif value:
+                            text_parts.append(str(value))
+                    cleaned_parts = []
+                    for part in text_parts:
+                        part = clean(html.unescape(re.sub(r"<[^>]+>", " ", str(part))))
+                        if part and part not in cleaned_parts:
+                            cleaned_parts.append(part)
+                    summary = max(cleaned_parts, key=len, default="")[:1800]
+                    image = ""
+                    media = item.get("media_content", [])
+                    if media and isinstance(media, list):
+                        image = media[0].get("url", "")
+                    if not image:
+                        thumbnails = item.get("media_thumbnail", [])
+                        if thumbnails and isinstance(thumbnails, list):
+                            image = thumbnails[0].get("url", "")
                     articles.append({
                         "title": title,
                         "summary": summary,
+                        "image": image,
+                        "author": clean(item.get("author", "")),
                         "language": language,
                         "category": category,
                         "publisher": publisher,
