@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sajidbos691-lang.github.io/global-pulse-news/sitemap.xml
