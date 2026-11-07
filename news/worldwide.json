@@ -5,7 +5,7 @@
     "English",
     "Arabic"
   ],
-  "generated_at": "2026-11-07T02:39:27.155197+00:00",
+  "generated_at": "2026-11-07T03:39:12.260698+00:00",
   "total": 396,
   "english": 197,
   "arabic": 199,
@@ -22,17 +22,6 @@
       "published": "Fri, 06 Nov 2026 18:22:12 GMT"
     },
     {
-      "title": "Funny old world: the week's offbeat news - RFI",
-      "summary": "Funny old world: the week's offbeat news RFI",
-      "image": "",
-      "author": "",
-      "language": "English",
-      "category": "World",
-      "publisher": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRWRfcm5Zc21oSThPODdPMmdkTHZjemNrSXBfTUlRXzVfVGNsRkdDUTJMNlg0TjF5MVFDUHlsaXpuc0R5SktJb1hoeVJrb0RIcGRRdjl0YmhJa2VLaTBFXy0xVmw2ekZ0SVRoNllfT0hKV0xQQnVxRDdxRjAycXRPUkw3ZGhrYTNzNzRLTlVsUm1Va00?oc=5",
-      "published": "Fri, 06 Nov 2026 17:36:14 GMT"
-    },
-    {
       "title": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force - UN News",
       "summary": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force UN News",
       "image": "",
@@ -42,6 +31,17 @@
       "publisher": "UN News",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrckd2V1JMLWpNY2NBd0ZjaV9PRTlvU2JvM3ZrNUZqTDB1cXhKM2EwZWVKN2E2eElEdGRtSWxFTk9fZzRYVE1zSW5JdjdPVWdaTURWMjVXQQ?oc=5",
       "published": "Fri, 06 Nov 2026 20:55:02 GMT"
+    },
+    {
+      "title": "Funny old world: the week's offbeat news - RFI",
+      "summary": "Funny old world: the week's offbeat news RFI",
+      "image": "",
+      "author": "",
+      "language": "English",
+      "category": "World",
+      "publisher": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRWRfcm5Zc21oSThPODdPMmdkTHZjemNrSXBfTUlRXzVfVGNsRkdDUTJMNlg0TjF5MVFDUHlsaXpuc0R5SktJb1hoeVJrb0RIcGRRdjl0YmhJa2VLaTBFXy0xVmw2ekZ0SVRoNllfT0hKV0xQQnVxRDdxRjAycXRPUkw3ZGhrYTNzNzRLTlVsUm1Va00?oc=5",
+      "published": "Fri, 06 Nov 2026 17:36:14 GMT"
     },
     {
       "title": "Punta del Este, Chicago and Istanbul: J/70 International Class announces 2028 Championships - Sail-World.com",
@@ -143,17 +143,6 @@
       "published": "Thu, 03 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "Top 50 English-language news sites in the world: Half see declines of 20% or more in September - Press Gazette",
-      "summary": "Top 50 English-language news sites in the world: Half see declines of 20% or more in September Press Gazette",
-      "image": "",
-      "author": "",
-      "language": "English",
-      "category": "World",
-      "publisher": "Press Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWmduWnZNVXc2TzZCMlgxS252a0pzdnBDR3c3MXRZMjI2U3lVMzBqNU96aVdabldJUUVYalpCSDNHYnFSRTlvYjRrb0lSVVJMdmdfUDk2bmo0X2Y3QWJnWHZ4MFZHR0dhVmE3aEVBdTZFemhDT2pqdXBibFBUTV94V1pISWxSbU9SUUl6Z2hGOVQ2SlZjc05SNDBiUFN5UV9DTXFBRG0wTkNGZHRObC1KbFV2aHdmRFA5?oc=5",
-      "published": "Thu, 08 Oct 2026 07:00:00 GMT"
-    },
-    {
       "title": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31 - UN News",
       "summary": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31 UN News",
       "image": "",
@@ -187,15 +176,26 @@
       "published": "Wed, 03 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "LIVE: OpenAI and Anthropic brief Security Council amid ‘real and imminent’ threat posed by runaway AI - UN News",
-      "summary": "LIVE: OpenAI and Anthropic brief Security Council amid ‘real and imminent’ threat posed by runaway AI UN News",
+      "title": "CBC/Radio-Canada Expands International News Including Five New Bureaus to be Launched Around the World - CBC Media Centre",
+      "summary": "CBC/Radio-Canada Expands International News Including Five New Bureaus to be Launched Around the World CBC Media Centre",
       "image": "",
       "author": "",
       "language": "English",
       "category": "World",
-      "publisher": "UN News",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqVGZCZ3prNmhaQXp3bkxTeWlRWlpjYUkxV2V0UWJGTy01dTFZQ2NoLXlXQWtVQ3lySFJsZmNuMDRWMWZQbmhfUGpqN3VsbFlPZ1ltNl9HQQ?oc=5",
-      "published": "Wed, 23 Sep 2026 07:00:00 GMT"
+      "publisher": "CBC Media Centre",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaVdNdUhWd1RuaEhjTHp2Vi1FMmFIdlNxSHdzRnJRYjRBdU1OeUNlY25GOXB1TnhkajgwMVB4RWJwVjRqMGQ3c010dkZvOV94elZDTjY2OWZubE1VSTV1azZ3cER6LS1pTF84dnVxTkdFZGlERVNXZ1IzOTdJYkRDMEd1YU1wWGVIR0JOTmtUMk9CbVdzZTMtMnZadloybnNOUWhQUmJiaFpacUNOWTdCT2tzb1FrOTZLNFFxUlJwLUhIOGJQQUVyaktBUk1ja0J1amJQZ1VPVmFNSVFjbDJaUWR3?oc=5",
+      "published": "Thu, 16 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Middle East conflict hits shipping, oil prices, and other international trade news - World Economic Forum",
+      "summary": "Middle East conflict hits shipping, oil prices, and other international trade news World Economic Forum",
+      "image": "",
+      "author": "",
+      "language": "English",
+      "category": "World",
+      "publisher": "World Economic Forum",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOak9zZU1EUXdXMjRCT0RtZDRCa3RCV2JwRzNrTVZIaGd3bENuVFZJcEt0dUVuNk1VQzA2YWNXYVgzRU5fZ3RmLVRaNGRoMzdNWnBJQjc0OF9jcnRIcl9CYXFmZjd0NncxMXB3d0V4QTRSOVlueml1YmoyQzVSeXhqZlFqVzRVVmlnbEhvREwzWGRwUnZJQzJQdWlaTklobFhHQ2VyZWVpbWxudnNR?oc=5",
+      "published": "Tue, 03 Mar 2026 08:00:00 GMT"
     },
     {
       "title": "AI explained: Why the world needs to act now - UN News",
@@ -220,26 +220,15 @@
       "published": "Mon, 08 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "CBC/Radio-Canada Expands International News Including Five New Bureaus to be Launched Around the World - CBC Media Centre",
-      "summary": "CBC/Radio-Canada Expands International News Including Five New Bureaus to be Launched Around the World CBC Media Centre",
+      "title": "International News | Latest World News, Videos & Photos - ABC News - Breaking News, Latest News and Videos",
+      "summary": "International News | Latest World News, Videos & Photos ABC News - Breaking News, Latest News and Videos",
       "image": "",
       "author": "",
       "language": "English",
       "category": "World",
-      "publisher": "CBC Media Centre",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaVdNdUhWd1RuaEhjTHp2Vi1FMmFIdlNxSHdzRnJRYjRBdU1OeUNlY25GOXB1TnhkajgwMVB4RWJwVjRqMGQ3c010dkZvOV94elZDTjY2OWZubE1VSTV1azZ3cER6LS1pTF84dnVxTkdFZGlERVNXZ1IzOTdJYkRDMEd1YU1wWGVIR0JOTmtUMk9CbVdzZTMtMnZadloybnNOUWhQUmJiaFpacUNOWTdCT2tzb1FrOTZLNFFxUlJwLUhIOGJQQUVyaktBUk1ja0J1amJQZ1VPVmFNSVFjbDJaUWR3?oc=5",
-      "published": "Thu, 16 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Middle East conflict hits shipping, oil prices, and other international trade news - World Economic Forum",
-      "summary": "Middle East conflict hits shipping, oil prices, and other international trade news World Economic Forum",
-      "image": "",
-      "author": "",
-      "language": "English",
-      "category": "World",
-      "publisher": "World Economic Forum",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOak9zZU1EUXdXMjRCT0RtZDRCa3RCV2JwRzNrTVZIaGd3bENuVFZJcEt0dUVuNk1VQzA2YWNXYVgzRU5fZ3RmLVRaNGRoMzdNWnBJQjc0OF9jcnRIcl9CYXFmZjd0NncxMXB3d0V4QTRSOVlueml1YmoyQzVSeXhqZlFqVzRVVmlnbEhvREwzWGRwUnZJQzJQdWlaTklobFhHQ2VyZWVpbWxudnNR?oc=5",
-      "published": "Tue, 03 Mar 2026 08:00:00 GMT"
+      "publisher": "ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA0MEtCQWRDSGJ5RTBZWThxY25RbE1RcjhiRVlVNnBTdTBaTW9XNUJrNUgwM2U1b2dSSGtKY19nSHJtdmlsNmFzcQ?oc=5",
+      "published": "Thu, 19 Oct 2023 04:57:11 GMT"
     },
     {
       "title": "Museums Uniting a Divided World - International Council of Museums",
@@ -273,6 +262,17 @@
       "publisher": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05NkpDQzBBVmNLMEFaNXVCMGJkNVVhNjcxTWVoQmpxRy00cmF2SlRJV2ljazRWdHA4UFBrTjBqVGUyLXN5azJHNU05d2MxM0k0QnJPNG9ob1NiQQ?oc=5",
       "published": "Sun, 01 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Jeremy Bowen: Trump is waging war based on instinct and it isn't working - BBC",
+      "summary": "Jeremy Bowen: Trump is waging war based on instinct and it isn't working BBC",
+      "image": "",
+      "author": "",
+      "language": "English",
+      "category": "World",
+      "publisher": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tYkhRdG1vcndickhlVmtkcVZLSnJndG5TajdYY0Jzd25UdW1MSUF5d1BRQV9PYlRJdVlNVXZ4NVpUcXpPWVZ2SDhWcWlyUzhMdl9DY010NnFpUQ?oc=5",
+      "published": "Sun, 29 Mar 2026 07:00:00 GMT"
     },
     {
       "title": "Balance of Power: Pope Leo Steps Into Trump-Tinged Latin America - Bloomberg.com",
@@ -957,6 +957,17 @@
       "published": "Fri, 06 Nov 2026 11:05:13 GMT"
     },
     {
+      "title": "Global AI stock selloff wipes trillions off Wall Street as Nasdaq plunges 5.5% - Gulf Business",
+      "summary": "Global AI stock selloff wipes trillions off Wall Street as Nasdaq plunges 5.5% Gulf Business",
+      "image": "",
+      "author": "",
+      "language": "English",
+      "category": "Technology",
+      "publisher": "Gulf Business",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeURWeFBoaHJ1T21BWEFBQk5LdjVjbVc5blJFMy1jNUljbWJIelRZbDFUbkdNQ2VOUFQ5S1prX3Z0WkdMQnp1VjVlY2ZOWDJzbDU0N0lnSGpmdjRZbkJEVzFNbk5hY1VBTHNHZzZ2a2NJQ0pTTzBscGZFRTlzbVJfMnRhajRIM184Ymg2LTRVMHR5TkJERlB6NzJtMkZybEd3WjgtQXZGQkQ1SDZqZUpWT0ppb293ZG8?oc=5",
+      "published": "Fri, 06 Nov 2026 06:05:45 GMT"
+    },
+    {
       "title": "Global tech stocks plunge as US midterms add to AI slowdown fears - BBC",
       "summary": "Global tech stocks plunge as US midterms add to AI slowdown fears BBC",
       "image": "",
@@ -1023,17 +1034,6 @@
       "published": "Fri, 06 Nov 2026 08:58:00 GMT"
     },
     {
-      "title": "Global AI stock selloff wipes trillions off Wall Street as Nasdaq plunges 5.5% - Gulf Business",
-      "summary": "Global AI stock selloff wipes trillions off Wall Street as Nasdaq plunges 5.5% Gulf Business",
-      "image": "",
-      "author": "",
-      "language": "English",
-      "category": "Technology",
-      "publisher": "Gulf Business",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeURWeFBoaHJ1T21BWEFBQk5LdjVjbVc5blJFMy1jNUljbWJIelRZbDFUbkdNQ2VOUFQ5S1prX3Z0WkdMQnp1VjVlY2ZOWDJzbDU0N0lnSGpmdjRZbkJEVzFNbk5hY1VBTHNHZzZ2a2NJQ0pTTzBscGZFRTlzbVJfMnRhajRIM184Ymg2LTRVMHR5TkJERlB6NzJtMkZybEd3WjgtQXZGQkQ1SDZqZUpWT0ppb293ZG8?oc=5",
-      "published": "Fri, 06 Nov 2026 06:05:45 GMT"
-    },
-    {
       "title": "AI for Scientific Discovery and Emerging Technologies - World Economic Forum",
       "summary": "AI for Scientific Discovery and Emerging Technologies World Economic Forum",
       "image": "",
@@ -1078,17 +1078,6 @@
       "published": "Mon, 03 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "The choices we make about AI now are critical | Bill Gates - Gates Notes",
-      "summary": "The choices we make about AI now are critical | Bill Gates Gates Notes",
-      "image": "",
-      "author": "",
-      "language": "English",
-      "category": "Technology",
-      "publisher": "Gates Notes",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
-      "published": "Wed, 26 Aug 2026 07:00:00 GMT"
-    },
-    {
       "title": "Global AI sell-off wipes RM4.46 bil off Bursa’s 20 largest tech stocks - The Edge Malaysia",
       "summary": "Global AI sell-off wipes RM4.46 bil off Bursa’s 20 largest tech stocks The Edge Malaysia",
       "image": "",
@@ -1098,6 +1087,17 @@
       "publisher": "The Edge Malaysia",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53a0RIYVVqTUZacXZKNzRLaU16ZVcyRTl1Z083SEs5WVM3ZzEwdm1HMjd0RXJSZkVwaEg4UUhHNkNFUElPUGl2dVcwU2k1TXdv?oc=5",
       "published": "Fri, 06 Nov 2026 13:28:12 GMT"
+    },
+    {
+      "title": "The choices we make about AI now are critical | Bill Gates - Gates Notes",
+      "summary": "The choices we make about AI now are critical | Bill Gates Gates Notes",
+      "image": "",
+      "author": "",
+      "language": "English",
+      "category": "Technology",
+      "publisher": "Gates Notes",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+      "published": "Wed, 26 Aug 2026 07:00:00 GMT"
     },
     {
       "title": "The growing concentration of national influence in global science - Nature",
@@ -1386,17 +1386,6 @@
       "published": "Wed, 04 Nov 2026 17:38:59 GMT"
     },
     {
-      "title": "Diabetes - World Health Organization (WHO)",
-      "summary": "Diabetes World Health Organization (WHO)",
-      "image": "",
-      "author": "",
-      "language": "English",
-      "category": "Health",
-      "publisher": "World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84aUtUTW1DOTdiR2tqMkMyX0drZmV0MGVHZTlHRUo3dFRyQ0lkVXZQZXcyejRPUWYzU0IzMHpBMk92dGRHaTNXSHpBbE05dWd6TFA2R196OU1GSWM5UjY2LXUtQ1pzQjBu?oc=5",
-      "published": "Tue, 03 Nov 2026 08:00:00 GMT"
-    },
-    {
       "title": "World Health Organization Approves Trials of Two New Ebola Vaccines - Democracy Now!",
       "summary": "World Health Organization Approves Trials of Two New Ebola Vaccines Democracy Now!",
       "image": "",
@@ -1408,15 +1397,15 @@
       "published": "Thu, 05 Nov 2026 15:21:46 GMT"
     },
     {
-      "title": "Germany Hosts The World Health Summit, But Has No Plan For The World's Health - Health Policy Watch",
-      "summary": "Germany Hosts The World Health Summit, But Has No Plan For The World's Health Health Policy Watch",
+      "title": "Six climate and health actions could save 1.6 million lives and deliver trillions in benefits each year - World Health Organization (WHO)",
+      "summary": "Six climate and health actions could save 1.6 million lives and deliver trillions in benefits each year World Health Organization (WHO)",
       "image": "",
       "author": "",
       "language": "English",
       "category": "Health",
-      "publisher": "Health Policy Watch",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2xVN1RJOWlweGNPZGZCeHkzMENWcjl3bXVMQ0RwRDFWSEM3UjBjRGhBR1hucjFsYmVKZ3d0LWlHTnBoSEIyMnRURFVWSmV2eUlQWFZqczEtZmFMN1pJQjNkcGI0aTN5U1oxV2tyS0tSbjdyck5UMHQzNWpmUXNTTXJqRXJPRkNkY1YxQ1I0U21QZk1PbnhrVHZBTXVYTmxCNWFHMXlXNWxFU1cw?oc=5",
-      "published": "Fri, 09 Oct 2026 15:57:26 GMT"
+      "publisher": "World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNFYxT2FIaFROVmZQTmZIOGdLeDM5UjAxZHhORUFtQjlFcVJfUVpXRWNiTVJfcG50S0EtWUd3djJMY2pLQVpuMlFaWmhfbG1xOHZiSWVTRDVWOHN0TjNDRXFhbDE1NUU1XzMxbmJUcC16ZVJSZlJWTWg4UkpiOVlSSTN6bHB0enJpQTQ2MlRiRzl4emU5MDBjUHRxYXVXTnlXbHBMdnJnM0FCZl9WbkZ3ZTdKOVgzX2laNVk4VGlwc01GWThNTDJDYmdCbFFHei04akl1Q1FiLTZHbERo?oc=5",
+      "published": "Wed, 04 Nov 2026 08:02:15 GMT"
     },
     {
       "title": "WHO approves trials for two new Ebola vaccines - Al Jazeera",
@@ -1430,15 +1419,15 @@
       "published": "Wed, 04 Nov 2026 19:43:12 GMT"
     },
     {
-      "title": "Six climate and health actions could save 1.6 million lives every year - Open Access Government",
-      "summary": "Six climate and health actions could save 1.6 million lives every year Open Access Government",
+      "title": "Germany Hosts The World Health Summit, But Has No Plan For The World's Health - Health Policy Watch",
+      "summary": "Germany Hosts The World Health Summit, But Has No Plan For The World's Health Health Policy Watch",
       "image": "",
       "author": "",
       "language": "English",
       "category": "Health",
-      "publisher": "Open Access Government",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU2dfQ09lTnJpWk9ZcjFzWXZOX085bzBRQ1dQOWR2dzcxRzdrRHhOcWc5cXdWSHhCSjExUV9SN3JidlVQUkpXQlI1M0FBQXdIREZLbEpjYnp5SzZWYmtCcmlRenI0Ynlob1lvQU1sUk9HbHpEQWFvbnpQUmNtMllWN3J4Xzdzam04WFJ0VEpKRENibUltOGV4WjhEV0Y0SllpcW5EVHNwQzNKMzk2UlpnZm8tR29BZw?oc=5",
-      "published": "Thu, 05 Nov 2026 10:02:55 GMT"
+      "publisher": "Health Policy Watch",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2xVN1RJOWlweGNPZGZCeHkzMENWcjl3bXVMQ0RwRDFWSEM3UjBjRGhBR1hucjFsYmVKZ3d0LWlHTnBoSEIyMnRURFVWSmV2eUlQWFZqczEtZmFMN1pJQjNkcGI0aTN5U1oxV2tyS0tSbjdyck5UMHQzNWpmUXNTTXJqRXJPRkNkY1YxQ1I0U21QZk1PbnhrVHZBTXVYTmxCNWFHMXlXNWxFU1cw?oc=5",
+      "published": "Fri, 09 Oct 2026 15:57:26 GMT"
     },
     {
       "title": "‘The world is not ready’: Climate adaptation cash falls far short as warming heads past 1.5°C - UN News",
@@ -1452,15 +1441,15 @@
       "published": "Wed, 04 Nov 2026 11:00:00 GMT"
     },
     {
-      "title": "Six climate and health actions could save 1.6 million lives and deliver trillions in benefits each year - World Health Organization (WHO)",
-      "summary": "Six climate and health actions could save 1.6 million lives and deliver trillions in benefits each year World Health Organization (WHO)",
+      "title": "Diabetes - World Health Organization (WHO)",
+      "summary": "Diabetes World Health Organization (WHO)",
       "image": "",
       "author": "",
       "language": "English",
       "category": "Health",
       "publisher": "World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNFYxT2FIaFROVmZQTmZIOGdLeDM5UjAxZHhORUFtQjlFcVJfUVpXRWNiTVJfcG50S0EtWUd3djJMY2pLQVpuMlFaWmhfbG1xOHZiSWVTRDVWOHN0TjNDRXFhbDE1NUU1XzMxbmJUcC16ZVJSZlJWTWg4UkpiOVlSSTN6bHB0enJpQTQ2MlRiRzl4emU5MDBjUHRxYXVXTnlXbHBMdnJnM0FCZl9WbkZ3ZTdKOVgzX2laNVk4VGlwc01GWThNTDJDYmdCbFFHei04akl1Q1FiLTZHbERo?oc=5",
-      "published": "Wed, 04 Nov 2026 08:02:15 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84aUtUTW1DOTdiR2tqMkMyX0drZmV0MGVHZTlHRUo3dFRyQ0lkVXZQZXcyejRPUWYzU0IzMHpBMk92dGRHaTNXSHpBbE05dWd6TFA2R196OU1GSWM5UjY2LXUtQ1pzQjBu?oc=5",
+      "published": "Tue, 03 Nov 2026 08:00:00 GMT"
     },
     {
       "title": "Two new candidate vaccines to join Ebola trial as treatment research advances - World Health Organization (WHO)",
@@ -1628,6 +1617,17 @@
       "published": "Tue, 07 Apr 2026 07:00:00 GMT"
     },
     {
+      "title": "WHO statement on notification of withdrawal of the United States - World Health Organization (WHO)",
+      "summary": "WHO statement on notification of withdrawal of the United States World Health Organization (WHO)",
+      "image": "",
+      "author": "",
+      "language": "English",
+      "category": "Health",
+      "publisher": "World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaVVobm1DOEthQmRKWXo0RXQwR0JMMVlsTHhHUW9CaW9ZalYtdlJKekFhRzFFdVZpdERlZXdBMUVWMUo2QzJfaVhmVnUxV3NWeldScHJKaGR1UXRkUUlmRGlHQ3REWTN3QzR4WGItN1R1Y01OTW1FbTJWa3dUTGNkaDJNcExlMU9lSHR4eWNGNjVnMXNERXV0Q3YwOUhIdHZPa24wOUdMLTg?oc=5",
+      "published": "Sat, 24 Jan 2026 08:00:00 GMT"
+    },
+    {
       "title": "Lindsay Pieper examines persistent gender inequities in the Olympics and Paralympics - Elon University",
       "summary": "Lindsay Pieper examines persistent gender inequities in the Olympics and Paralympics Elon University",
       "image": "",
@@ -1694,17 +1694,6 @@
       "published": "Fri, 06 Nov 2026 02:33:00 GMT"
     },
     {
-      "title": "New sporting director wanted! Ex-international linked with Hannover? - Yahoo Sports",
-      "summary": "New sporting director wanted! Ex-international linked with Hannover? Yahoo Sports",
-      "image": "",
-      "author": "",
-      "language": "English",
-      "category": "Sports",
-      "publisher": "Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVEdXVmo5VkF5OThobTEtWHNEQmtuZlJnUFQweTEzMW9uNlV1c0c4eE9KdGhlV3ZWNDVuRnpiaGxPMnFSamRIVEMzdDI5Wl9Db3dQYnRCTGh1U2k2LTQ3V3d1cHd4REUzX3hVRHU1ek1sLXdmQzJpNTlmS2tZeUo5akRHMnBfeDF5bC1zZnBFbWxFT1cy?oc=5",
-      "published": "Fri, 06 Nov 2026 06:43:00 GMT"
-    },
-    {
       "title": "John Tavares returning to Maple Leafs lineup — as a left winger - The New York Times",
       "summary": "John Tavares returning to Maple Leafs lineup — as a left winger The New York Times",
       "image": "",
@@ -1725,17 +1714,6 @@
       "publisher": "CBS Sports",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVmxSTHcxdFRfc200a3pBNkFjT25VYkZiRW1KMEdyMlFWWGlEdXhvZEV1NFdNZDFWTVlLQ2FYRnRXcTlncF9aUVFfZUt6LTQxWnNHWmhrUThxM3pBY2ZFZk5ZVGJjSHhhWTVUMmx2TUVpcnhCVFREQ1Z1cHQwR2F5bmpWT0trNjFaY2FUVlZVQQ?oc=5",
       "published": "Fri, 06 Nov 2026 15:00:48 GMT"
-    },
-    {
-      "title": "Hyrox has partnered with World Triathlon. Could it really become an Olympic sport? - The New York Times",
-      "summary": "Hyrox has partnered with World Triathlon. Could it really become an Olympic sport? The New York Times",
-      "image": "",
-      "author": "",
-      "language": "English",
-      "category": "Sports",
-      "publisher": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeWR4N3lpYUtXX0tKQmF5Y0Y0eUJoYmxDaHMxMHEwdTY2SFpVRHh2bXFBOERoOHVMclJWdkh4SFNfLUk1dXZ3RWVnNFhxQ2NZZWtEOU0tck15dkVvWXY3YXlDc2Y3YTk5QlktWEFRanczNHZzWi1rdkNsWFRvMVpNUFlWLUpiaEMyeWhZ?oc=5",
-      "published": "Fri, 06 Nov 2026 13:33:00 GMT"
     },
     {
       "title": "SNY hit with major layoffs, show cancellations; website dismantled: Sources - The Athletic - The New York Times",
@@ -1760,37 +1738,26 @@
       "published": "Fri, 06 Nov 2026 23:08:25 GMT"
     },
     {
-      "title": "Tigers name Kyle Hudson first-base coach to finalize 2027 coaching staff - The New York Times",
-      "summary": "Tigers name Kyle Hudson first-base coach to finalize 2027 coaching staff The New York Times",
+      "title": "Hyrox has partnered with World Triathlon. Could it really become an Olympic sport? - The New York Times",
+      "summary": "Hyrox has partnered with World Triathlon. Could it really become an Olympic sport? The New York Times",
       "image": "",
       "author": "",
       "language": "English",
       "category": "Sports",
       "publisher": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmpsZ3QxTXRkV1hVbURwVUlBNTJSY0NFZ1A4eWNFSmZnOEtVMEU1OEc2WXh3Vzl3MDhwSGU0ZF92eU96Nmp0XzlJWnlMNmlmbUdHejljUnk4ZUFpY0otOGdkSlJYQURMRk5JcjJDVG1tT3ZzbTF4STE2SWR4R0p2aU9COVZieXNrSE9B?oc=5",
-      "published": "Fri, 06 Nov 2026 16:36:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeWR4N3lpYUtXX0tKQmF5Y0Y0eUJoYmxDaHMxMHEwdTY2SFpVRHh2bXFBOERoOHVMclJWdkh4SFNfLUk1dXZ3RWVnNFhxQ2NZZWtEOU0tck15dkVvWXY3YXlDc2Y3YTk5QlktWEFRanczNHZzWi1rdkNsWFRvMVpNUFlWLUpiaEMyeWhZ?oc=5",
+      "published": "Fri, 06 Nov 2026 13:33:00 GMT"
     },
     {
-      "title": "Men’s college soccer overhaul halted, as vote blocks two-semester model - The New York Times",
-      "summary": "Men’s college soccer overhaul halted, as vote blocks two-semester model The New York Times",
+      "title": "Brock Faber opens up about fractured skull, frightening aftermath and road back to Wild - The Athletic - The New York Times",
+      "summary": "Brock Faber opens up about fractured skull, frightening aftermath and road back to Wild - The Athletic The New York Times",
       "image": "",
       "author": "",
       "language": "English",
       "category": "Sports",
       "publisher": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcFQyT1hWVkRKN1JnbWkzWFZZbTV4b2JYOXRiOGFhajBXQVRSRmVnWVk0amtYRFJqSWVCaDlEdVZrTmVkdEVpNzNOakJGeVJZck1uZ1IwTTc3YmM2ajVPRjdwUmhyTHR2SFZSZXlQODlTYWxrdkJZeUVELVpObHdhLXo2ODVFMWY4dEIwR3lnQ1IyU1dpdjNtMWt3NWN5UkRqbm9VSkJtcHktUm8yei1CaXNHS3RoMmc?oc=5",
-      "published": "Fri, 06 Nov 2026 22:40:18 GMT"
-    },
-    {
-      "title": "Did the midterm elections kill the Protect College Sports Act? Here’s what happens next - The New York Times",
-      "summary": "Did the midterm elections kill the Protect College Sports Act? Here’s what happens next The New York Times",
-      "image": "",
-      "author": "",
-      "language": "English",
-      "category": "Sports",
-      "publisher": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWU1BUmJuUkp3YVRLbzRhWEJWSWtPd0hQZlFQNUgyV0pNTGZmS1o4REpmS3dfMmhQMkJpbHZPV3lIaUdBczMwY211T0J2X2hRaWIxUHV1RXBWUVRlRjVFaXpTMkZEUlBTbDNVZHBnd0tZZ1ZTd0J1U1Rsai1VeEppM0dvaFJoVlZtTUxNemlsSTR0dlFOcTVSb09B?oc=5",
-      "published": "Fri, 06 Nov 2026 11:30:37 GMT"
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRGdPRnE3NmdIU1FOX0d2Nm5UNXJkVTA2aWVJbjhsWHVQNGFQYzQ4Rmx3TU1JQnZMcVpURUF4UmtMS3FYeFM4ZlZsNDBTb21OTGZLMkxNZWNFcVVJLXFidXdnZEdoQ0dlamU5MUJGSXdxb1lqZ3l1cnNRRUtNakJIOXJsRWMyV3gtdVNWeUZOSmEwRExnUTlIZmlsczBTam5uNHU4Qw?oc=5",
+      "published": "Fri, 06 Nov 2026 22:48:30 GMT"
     },
     {
       "title": "Scott Parker: West Ham United’s Championship promotion specialist - The New York Times",
@@ -1804,6 +1771,17 @@
       "published": "Fri, 06 Nov 2026 15:35:10 GMT"
     },
     {
+      "title": "Did the midterm elections kill the Protect College Sports Act? Here’s what happens next - The New York Times",
+      "summary": "Did the midterm elections kill the Protect College Sports Act? Here’s what happens next The New York Times",
+      "image": "",
+      "author": "",
+      "language": "English",
+      "category": "Sports",
+      "publisher": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWU1BUmJuUkp3YVRLbzRhWEJWSWtPd0hQZlFQNUgyV0pNTGZmS1o4REpmS3dfMmhQMkJpbHZPV3lIaUdBczMwY211T0J2X2hRaWIxUHV1RXBWUVRlRjVFaXpTMkZEUlBTbDNVZHBnd0tZZ1ZTd0J1U1Rsai1VeEppM0dvaFJoVlZtTUxNemlsSTR0dlFOcTVSb09B?oc=5",
+      "published": "Fri, 06 Nov 2026 11:30:37 GMT"
+    },
+    {
       "title": "Cristiano Ronaldo’s Portugal exit may have been messy but he leaves an untouchable legacy - The New York Times",
       "summary": "Cristiano Ronaldo’s Portugal exit may have been messy but he leaves an untouchable legacy The New York Times",
       "image": "",
@@ -1813,6 +1791,17 @@
       "publisher": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa3A2OG9lUzlFSmZXeFdBV05PRFBpb0J3WXNCelBpR0JadTV0YmpEZjhacWZBcHE4dnZXcjZiLWRmZ0Z1M1NSc09uVFRNbzNvUGhpWEo4Z3VpUDFNeHJFUHJZampOMk1LS2RtSVNZd0k2RVVGVFcyQ1FWeHA3M1diN2J0RTJFUkpxOUllZG5wUGFSa3BOenFIcEpUaE02Zw?oc=5",
       "published": "Fri, 06 Nov 2026 13:25:00 GMT"
+    },
+    {
+      "title": "An NHL player was penalized for a ‘one-man fight.’ It’s more common than you might think - The New York Times",
+      "summary": "An NHL player was penalized for a ‘one-man fight.’ It’s more common than you might think The New York Times",
+      "image": "",
+      "author": "",
+      "language": "English",
+      "category": "Sports",
+      "publisher": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdVhqNzBOTlROTnlkNnJsYTJQRjZYY2FScUl6U1RlQXcxUU9zeHFNdXdoT2dvM3NvQlU4WlFEalFTRFEtb2s0SmhQc05zTHo1R1R1YXpmQWxuVG5QNUttaGpsU2ZUREtRR0JMWjdmX3JNZ3B0NVRQT2FvNDBBT3FHYnVKNE94RS1md2kxcXB3OVpWZUZ6WHNEUHFCMA?oc=5",
+      "published": "Fri, 06 Nov 2026 20:38:19 GMT"
     },
     {
       "title": "The Big Ten has its 24-team Playoff. Now the work begins to change its football schedules - The New York Times",
@@ -1826,6 +1815,28 @@
       "published": "Fri, 06 Nov 2026 13:00:56 GMT"
     },
     {
+      "title": "Jack Grealish returns to training at Everton with view to being available for Brentford trip - The New York Times",
+      "summary": "Jack Grealish returns to training at Everton with view to being available for Brentford trip The New York Times",
+      "image": "",
+      "author": "",
+      "language": "English",
+      "category": "Sports",
+      "publisher": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTU85bzNRZUVUVHhLLUpPVWxrX05FSjBtQURkRHlWbzZOUGhVVzFpUEFibktNbk9NNXg4WTFfaER6ZUdHdjI1WmhzSkdYWWJ1RF8zaEh4djBNODU2YkNMYW5ZZk5NMlZTLUNEa3VwTGhNZmt3Rlk4d1pwcGVPNC12eVdDTGFyRF82TEQ0SVJrQ0tqZw?oc=5",
+      "published": "Fri, 06 Nov 2026 17:18:08 GMT"
+    },
+    {
+      "title": "As lockout looms, MLB agents set aside rivalries to unite against salary cap - The New York Times",
+      "summary": "As lockout looms, MLB agents set aside rivalries to unite against salary cap The New York Times",
+      "image": "",
+      "author": "",
+      "language": "English",
+      "category": "Sports",
+      "publisher": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMTZ1ZUJPNVl0T2g2Y1YxcUVOazNMOEI1QmVWMzVoczNJRmNOMkFSd3hzWDFkQmtQanAyR1ZwQTJCT1JDVmdYMVc5YmhEWnVxUGxNX2FacmVpMWlxVGFSSFN2djZFS2JUMm5UQl9KWTZkMWVtT2dLcC1fYmRLM0oteXliVzI?oc=5",
+      "published": "Fri, 06 Nov 2026 10:45:13 GMT"
+    },
+    {
       "title": "What’s next for Lindsey Vonn? A ninth surgery, recovery, then ‘we’ll see’ - The New York Times",
       "summary": "What’s next for Lindsey Vonn? A ninth surgery, recovery, then ‘we’ll see’ The New York Times",
       "image": "",
@@ -1837,15 +1848,26 @@
       "published": "Fri, 06 Nov 2026 16:05:23 GMT"
     },
     {
-      "title": "How brotherly love, and some s— talk, made Luka Dončić feel at home with the Lakers - The Athletic - The New York Times",
-      "summary": "How brotherly love, and some s— talk, made Luka Dončić feel at home with the Lakers - The Athletic The New York Times",
+      "title": "NFL mock trade deadline: Attempting to swing deals for top remaining players available - The Athletic - The New York Times",
+      "summary": "NFL mock trade deadline: Attempting to swing deals for top remaining players available - The Athletic The New York Times",
       "image": "",
       "author": "",
       "language": "English",
       "category": "Sports",
       "publisher": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQmtiV1RlX2hpU3p4TldnZHQ3OXFpWGxKeGwwcGExZDhoLXJKMG5QdlBUNjBYT25MRENoOFBfR0k2STBJQ0pPeTcyWm1MYUZBbllTbmpsMFlJQmpjM3RPNXFLNWUyMldCZVo5dGc5YzU2ZnV6YUZwbGxHSzFsRlJxaHdlMWtueE1wa2YxUmtBU1plTnA4X0E?oc=5",
-      "published": "Fri, 06 Nov 2026 17:15:47 GMT"
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa2toNGhOWnhaTHBXYVluQmQwOUh6R21vOUlCZHdoNXJvMnpSUk1wYXdqT012dW9UYVVLbk95OXdSLXRRQUZ5STVQZS1JSWJfYllyc2ZPelRKLWVqLWtuNjhqMGVjdFVTZjY3Q2xaazBpTW9GSjZpakZlR056VkhTVWUwV2N5YkNPVDYteUJnYkFjWEFXTC1UMzhTb0NHekZ5MkZQQkVzTm1wNnhv?oc=5",
+      "published": "Fri, 06 Nov 2026 17:23:00 GMT"
+    },
+    {
+      "title": "New sporting director wanted! Ex-international linked with Hannover? - Yahoo Sports",
+      "summary": "New sporting director wanted! Ex-international linked with Hannover? Yahoo Sports",
+      "image": "",
+      "author": "",
+      "language": "English",
+      "category": "Sports",
+      "publisher": "Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVEdXVmo5VkF5OThobTEtWHNEQmtuZlJnUFQweTEzMW9uNlV1c0c4eE9KdGhlV3ZWNDVuRnpiaGxPMnFSamRIVEMzdDI5Wl9Db3dQYnRCTGh1U2k2LTQ3V3d1cHd4REUzX3hVRHU1ek1sLXdmQzJpNTlmS2tZeUo5akRHMnBfeDF5bC1zZnBFbWxFT1cy?oc=5",
+      "published": "Fri, 06 Nov 2026 06:43:00 GMT"
     },
     {
       "title": "How a hot mic at the WTA Finals caught Jessica Pegula calling Mirra Andreeva a ‘diva’ - The New York Times",
@@ -1879,28 +1901,6 @@
       "publisher": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVEFmVC1lbEhkdEdOSkYxTDhCd1R4ekRvNzBCckY4ZUpHWkktek5NemRqbHJ2U1dSUHVmcmt6dFBFNm4tRC12Yk5vWVRwZjNrekZHV0duRHc4RDNSTTR5eU9CSzZzN0M4OXpnaUZ6WUg5VDg2NkZ0d1cwTFdlQlZiUzhmblZpbzBVM09XVlJybC1NQQ?oc=5",
       "published": "Fri, 06 Nov 2026 13:59:00 GMT"
-    },
-    {
-      "title": "Why BYU-Utah’s Holy War runs deeper than football: Bananas, banned words and fistfights - The New York Times",
-      "summary": "Why BYU-Utah’s Holy War runs deeper than football: Bananas, banned words and fistfights The New York Times",
-      "image": "",
-      "author": "",
-      "language": "English",
-      "category": "Sports",
-      "publisher": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTHROWEJET0hNQU9hTWZRYnhHR3lyaUZOVWdhUDJhMlBhVGZycER1dllZdnVuZ0hkc3dKVGRyMFM1OVVLUDgzQTk5bUZxcUxiemNmRVVlNXotczJ5OGN3SkJSbmlXOHJWcHlUMUxQVGVic2I1UkpPX29neGVsSjNzRE1pOXg4d2h4Yno1UDVmdE0?oc=5",
-      "published": "Fri, 06 Nov 2026 14:05:32 GMT"
-    },
-    {
-      "title": "The making of Mike Penders, Chelsea’s ‘Obelix’ of a goalkeeper who is showing his resilience - The Athletic - The New York Times",
-      "summary": "The making of Mike Penders, Chelsea’s ‘Obelix’ of a goalkeeper who is showing his resilience - The Athletic The New York Times",
-      "image": "",
-      "author": "",
-      "language": "English",
-      "category": "Sports",
-      "publisher": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdWI3MFh6azBGQmp4WU1ubnV1YjU0M0dpaVd1TnNYRkRaeVhDSHVYRVU3SWFkZlhHY2R5eVE1XzduVno4LXRuSkRROUR4aFJBNER4RU9yZENlSFV5dktLdHNXYkZFLUVUN1p5MFhzRm5yZTZWQ1Q4aEYzaWM5dERnVUtERmpfMTd0?oc=5",
-      "published": "Fri, 06 Nov 2026 05:05:31 GMT"
     },
     {
       "title": "World set to cross 1.5°C global warming, but can still limit, adapt to and return from higher temperatures - UNEP - UN Environment Programme",
@@ -2211,17 +2211,6 @@
       "published": "Mon, 14 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "نافدة دولية ...أهم أخبار العالم يومي الجمعة و السبت - https://inews.ma/",
-      "summary": "نافدة دولية ...أهم أخبار العالم يومي الجمعة و السبت https://inews.ma/",
-      "image": "",
-      "author": "",
-      "language": "Arabic",
-      "category": "World",
-      "publisher": "https://inews.ma/",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE4yenNPWGFYR3Y1ZExwdGpoRGFkTjZ1el90Wml4Nk1BUVpESF9VMnVZWlBza09CM3hyZmEtVzUzQk1JakE?oc=5",
-      "published": "Sun, 25 Oct 2026 10:39:47 GMT"
-    },
-    {
       "title": "أخبار العالم 19 أغسطس: العلاقات بين الإمارات وإيران تتوتر بسرعة؛ زلزال كبير في الصين. - Vietnam.vn",
       "summary": "أخبار العالم 19 أغسطس: العلاقات بين الإمارات وإيران تتوتر بسرعة؛ زلزال كبير في الصين. Vietnam.vn",
       "image": "",
@@ -2277,15 +2266,15 @@
       "published": "Thu, 05 Nov 2026 22:17:12 GMT"
     },
     {
-      "title": "صحف عالمية: مؤشرات حرب وأزمات تضغط على العالم | أخبار - الجزيرة نت",
-      "summary": "صحف عالمية: مؤشرات حرب وأزمات تضغط على العالم | أخبار الجزيرة نت",
+      "title": "\"أكبر عملية من نوعها\".. الجزائر تضبط مخدرات وراءها \"شبكة دولية منظمة\" - الجزيرة نت",
+      "summary": "\"أكبر عملية من نوعها\".. الجزائر تضبط مخدرات وراءها \"شبكة دولية منظمة\" الجزيرة نت",
       "image": "",
       "author": "",
       "language": "Arabic",
       "category": "World",
       "publisher": "الجزيرة نت",
-      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQVE1aOERWV2w5X1VQTzJsekF2dXJrU0w1RG1aNndUcUY1Y2lVbTVub3BZUG85Um9sWVlZV3pqemJxYUI5Tkl5eWt2eTlQYVlKNFA4NXk0MnFvRXZCSU52YVp3RlpyTDByV0IwRnJlNkNHX3JfRElBSWJaMU5paFNXZERUZHByM1hnT19uSkNUblhURUIwZ21DOFlPd3Rya2ZxZlhxVmFZWXFXMEJKaDJuT0hPMmpLQjV2dTNSSGpJb3NOWTZjelBYbkNKWW9GZmMtNE5JbUJ2YjIybzFQZExPZEgtNXdjRnNGVm81ZzhWODMxSGZjX0R4eGsxLW5mdEtWRDFITjlRRFFUdnFtMGFfUkItTlNGTzJ1SFdZT3lhYW5RMkVyZHczRlhTQkFMY1p5QmdxaHBMcno2WUllOVpfdzhaSnljcXB0d3Bnd2k5a0syVFk?oc=5",
-      "published": "Sat, 21 Feb 2026 08:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOSFBJRmRTdkVEMm1WYXpxTi1id3pfTU05NFhtOG4ydzFYTVZUT1V3MFVYQW14cWl3djJPXzJ3OVptcUZFcEtVUHdtNnFxbEhlbzJhb2taTlUxcENlcThzZWhoZTZibnZaYU4xeG5sTTVKSHRORHMwekdJYnJuSll3c29mZGZuUTRKZjN4dWVfT0RYTm9kMTNyV2dYNFAyUk1hVmZTdDhGVVE3b0hySmo5RW90NTZscUVfT3ZLaFFjN2NXVzU4V3o5ZE1lNkRkWUJQWXV3Nld6N2JuN1h1aVdOdXpXTWVWaEJTblZYTE5aUExfaDNpX3RsZ2RIa09WR29SVmt0eUxmSHlfUUljOTBoUzktaWd4TG1MNkx3eV9LNnVPTmdHeFJaREVCRG5oQ3VhT3c?oc=5",
+      "published": "Fri, 21 Aug 2026 07:00:00 GMT"
     },
     {
       "title": "موجز أخبار العالم الثلاثاء: حرب على جبهتين وتصعيد متواصل يفاقم التوتر إقليميا - عرب 48",
@@ -2299,6 +2288,17 @@
       "published": "Tue, 03 Mar 2026 08:00:00 GMT"
     },
     {
+      "title": "صحف عالمية: مؤشرات حرب وأزمات تضغط على العالم | أخبار - الجزيرة نت",
+      "summary": "صحف عالمية: مؤشرات حرب وأزمات تضغط على العالم | أخبار الجزيرة نت",
+      "image": "",
+      "author": "",
+      "language": "Arabic",
+      "category": "World",
+      "publisher": "الجزيرة نت",
+      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQVE1aOERWV2w5X1VQTzJsekF2dXJrU0w1RG1aNndUcUY1Y2lVbTVub3BZUG85Um9sWVlZV3pqemJxYUI5Tkl5eWt2eTlQYVlKNFA4NXk0MnFvRXZCSU52YVp3RlpyTDByV0IwRnJlNkNHX3JfRElBSWJaMU5paFNXZERUZHByM1hnT19uSkNUblhURUIwZ21DOFlPd3Rya2ZxZlhxVmFZWXFXMEJKaDJuT0hPMmpLQjV2dTNSSGpJb3NOWTZjelBYbkNKWW9GZmMtNE5JbUJ2YjIybzFQZExPZEgtNXdjRnNGVm81ZzhWODMxSGZjX0R4eGsxLW5mdEtWRDFITjlRRFFUdnFtMGFfUkItTlNGTzJ1SFdZT3lhYW5RMkVyZHczRlhTQkFMY1p5QmdxaHBMcno2WUllOVpfdzhaSnljcXB0d3Bnd2k5a0syVFk?oc=5",
+      "published": "Sat, 21 Feb 2026 08:00:00 GMT"
+    },
+    {
       "title": "موجز أخبار العالم الثلاثاء: حرب متصاعدة بالشرق الأوسط وتزايد الاضطرابات الاقتصادية - عرب 48",
       "summary": "موجز أخبار العالم الثلاثاء: حرب متصاعدة بالشرق الأوسط وتزايد الاضطرابات الاقتصادية عرب 48",
       "image": "",
@@ -2310,17 +2310,6 @@
       "published": "Tue, 10 Mar 2026 07:00:00 GMT"
     },
     {
-      "title": "كاتب أمريكي: أحداث الأسابيع الثلاثة الأولى من 2026 ستعيد تشكيل العالم - الجزيرة نت",
-      "summary": "كاتب أمريكي: أحداث الأسابيع الثلاثة الأولى من 2026 ستعيد تشكيل العالم الجزيرة نت",
-      "image": "",
-      "author": "",
-      "language": "Arabic",
-      "category": "World",
-      "publisher": "الجزيرة نت",
-      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNNDdWWExKSHozMGFrTk5hUUVKSXY5dkl5QWZTOVlLR0dFQUxSNG8tdVpYSTUzR0Y3RXlwbmhiS2ZIcU42QThHNk1DV0l6WnM0bUtwX3lHczZCOTRzbHowSWwtWWxBQTJKa04waVgwQ3JnSnpWU25LTE03SWFVdnR5UU5oMmFDSmt1M2piMFBqcmJUS3dobWx4VU9QTHZBQ0ZkSnZVWVFIT2E5RkNhNWFfNXZueng1LWxnZzhScFU2azR2SU8zWms3cjBVZHJlQzR1ZGc0YkV3azdnTVVWb09pWUJZRHlBVTBZbzQ5ZTlFeVBYR0NWeUE1WTZJMWpGODJYNWw2ck43LU5mQXFiLXVBdFJCSVRQR195US1iRmRENFRTcnFtbTI0cjJsaGcyMldiZ1pxRmNGdmxtczRuaFRMbjg3ZXdDMjVFbUtkQzNlVFA?oc=5",
-      "published": "Sun, 25 Jan 2026 08:00:00 GMT"
-    },
-    {
       "title": "باختصار.. أهم أخبار العالم والعرب حتى منتصف الليل.. مصر و7 دول يؤكدون رفضهم الكامل لمخطط E1 الاستيطانى الإسرائيلى.. مكتب نتنياهو يهاجم أردوغان والرئاسة التركية ترد.. وخطة ترامب لمضاعفة «طائرات يوم القيامة» - اليوم السابع",
       "summary": "باختصار.. أهم أخبار العالم والعرب حتى منتصف الليل.. مصر و7 دول يؤكدون رفضهم الكامل لمخطط E1 الاستيطانى الإسرائيلى.. مكتب نتنياهو يهاجم أردوغان والرئاسة التركية ترد.. وخطة ترامب لمضاعفة «طائرات يوم القيامة» اليوم السابع",
       "image": "",
@@ -2330,6 +2319,17 @@
       "publisher": "اليوم السابع",
       "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxPX1NyNnBwWHBETjVDUXJWeE1YaXFUSnpmTHc2MElLTkd0TV83djg1eVRJd1pJMHJzOEZKRjBKRndYWWNMUGtWLTZxa2ZsenpCcTg0eHVZQ2MwSmVUdTl2OTNGejZxdlMwSDNqZDdXMlpIX2JxbzBRTXZRQ1VkbjJlSTJIZWpGR2QydTRyZktfWHJLNXpVUEI4UHVwOTV4ZERRWk5OQWFNejJwR2JhRGp5emdnaS1tSFdPNG1vUFpqNWhCMjV2NEhjZ2xpUjVWYmRlZ1p0RjY0ZGo4cEtKb092VmRrdGRpVVktQnoyRWk0bVFZSjE3WXVBNzZNSFF2dEVHdW5hOWwzVmgzMHczQkJvS2g3S3JCNVczc0V0Qmo1SHFzRFJsS1VaM09IYWtCT3BOWGhGVVl2S2VHTG1WazRFZWVFV0ZWcjJ3d2VZTVdEVG5oU1NIZmxQS2NVQWlFbkJXNnRkNTd3Wmlla2NQRkxmZmJubmJ0ZXdVX1dFQnIyb3hrZWVYREJSQmlaemt5OW5GOWxoWEZrNHF0YTlYazI5SzFHWE1IT0w4V3J3VFlOWkVTamxPTnNweFZyc1RSTzI3XzVNU2puRdIBwgNBVV95cUxPWGxHU0podWxYdE9feWR4ZndZcjNzUVdmSVNEc0lBdlB1Q0JrODc3Nl9YMDltVHFLU2hCaFhjYzV4VUpJMGxFbjVNdTdXMkdtLW9MWEpQYkJGbWNDbGkwU0VvU3hfa0RoRDdVR05Cb0QyVE82Q25PdUVXdk9naGJQSDlRZ3IwWEVreXoyUEV4czRvMlNpdG91VXVONDNEdjdPSWtNMll2S0M5bGg1Y3pzMnQtWjUyMUpmUUMwdVFPTXlpZmpROUJ0NHZsXzNySXJqWUhwOEt2a1VMQjBISkszWW53VHVxMUxBYXhuNWFQWVBldDNfREJUcHUtM2FZamZwdGtTRWJjWEJiZ2EweHdfYzFVMEFOd0IySTNhdjR3OEZka3FZaU1BTndycEZlcFo0TU9KR1B6Q0M2Yno0OGFmOXlrXy0ybGh6MlZuZGotNUdDOFJCR0NkWDB1OWR4SXI4eWhCbjRRdUI4Zm5aQWdUejBCVHFKUDRLcE1BeGx5SGhfd1VsRGhuMnZJU2pjM3BVWDF5dTdqcnNMcFNzX2djdVNGczhaREFIblExc1g1NEJvSFhiTTFWV3hlNWQ5aW5oNUE?oc=5",
       "published": "Sat, 22 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "كاتب أمريكي: أحداث الأسابيع الثلاثة الأولى من 2026 ستعيد تشكيل العالم - الجزيرة نت",
+      "summary": "كاتب أمريكي: أحداث الأسابيع الثلاثة الأولى من 2026 ستعيد تشكيل العالم الجزيرة نت",
+      "image": "",
+      "author": "",
+      "language": "Arabic",
+      "category": "World",
+      "publisher": "الجزيرة نت",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNNDdWWExKSHozMGFrTk5hUUVKSXY5dkl5QWZTOVlLR0dFQUxSNG8tdVpYSTUzR0Y3RXlwbmhiS2ZIcU42QThHNk1DV0l6WnM0bUtwX3lHczZCOTRzbHowSWwtWWxBQTJKa04waVgwQ3JnSnpWU25LTE03SWFVdnR5UU5oMmFDSmt1M2piMFBqcmJUS3dobWx4VU9QTHZBQ0ZkSnZVWVFIT2E5RkNhNWFfNXZueng1LWxnZzhScFU2azR2SU8zWms3cjBVZHJlQzR1ZGc0YkV3azdnTVVWb09pWUJZRHlBVTBZbzQ5ZTlFeVBYR0NWeUE1WTZJMWpGODJYNWw2ck43LU5mQXFiLXVBdFJCSVRQR195US1iRmRENFRTcnFtbTI0cjJsaGcyMldiZ1pxRmNGdmxtczRuaFRMbjg3ZXdDMjVFbUtkQzNlVFA?oc=5",
+      "published": "Sun, 25 Jan 2026 08:00:00 GMT"
     },
     {
       "title": "حرب إيران.. ثلاثة سيناريوهات محتملة لنهاية نزاع يربك العالم - الجزيرة نت",
@@ -2431,6 +2431,17 @@
       "published": "Fri, 04 Sep 2026 07:00:00 GMT"
     },
     {
+      "title": "عقوبات أمريكية وشيكة تستهدف الجنائية الدولية - الجزيرة نت",
+      "summary": "عقوبات أمريكية وشيكة تستهدف الجنائية الدولية الجزيرة نت",
+      "image": "",
+      "author": "",
+      "language": "Arabic",
+      "category": "World",
+      "publisher": "الجزيرة نت",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOQVhpZ1NLX1RfeWwtRjd3WjBTT0tKWVdoYlRTNmpobHdEYmdkZmE5Q0hQUzlfQjlZY2FwcWpyNXNxNnE3Smxwck9CcTdQUkd0eEVNcWMwT3BzUUZGSndyOWQ1Q3F3RmY0N0RPSGRkM1NDOE1wVmcwdmt4NF9oOS1MZlhiX0xLRkxQdzRjN3lqMU5vYk9fNlhvbEVZQ19tdkRYb1dqWTJKdUZwX2ZrSHo3VVVtSkM4MnBCNnVJRElQeWNLbjE4UEV3eDdOLUFfQXh0STdyVWFjVk43YWFTb3FMdW9KZGVieFJSSTFUVDVseGQyNWl2RVJfVzExS3pnaXVDNFNadlNYU3ZFcTZFQVEwX0RXLXBSX1JNeWU4eXZxUVZLbE92M0ZTUkFhZnVrNGJSU2doRXZyMm9peEpXRHhoOWJoQndGem40bmMzRElXTEtvUUFfYmg0Ug?oc=5",
+      "published": "Mon, 21 Sep 2026 07:00:00 GMT"
+    },
+    {
       "title": "العمل الدولية واليونيسيف: العالم يفشل في القضاء على عمالة الأطفال - الجزيرة نت",
       "summary": "العمل الدولية واليونيسيف: العالم يفشل في القضاء على عمالة الأطفال الجزيرة نت",
       "image": "",
@@ -2440,17 +2451,6 @@
       "publisher": "الجزيرة نت",
       "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQZHdEa0hmeXo3dHdxallBOG9HcnZrNFBUWTJaWnoybGZPR2x1cUlSd2VmZTJLUkEydUlibnBjVVFrb08yMU9DM2VJaXpYUndEcEtvUmNraDdveWxBUTlWRHpkc1FHelFOSnVibTV1cE4zdkRlQXRxMUlDbmlVSGxYcHdZd3gtbzVEZF9rTmthNnNveVYzeHNnS3NMYUtqa3JOOWc1UWhtN1lBOVhCVDZrMnRmOUJBZFBXREhUbm9qNFFybVhzWUxybVJRd050WVhEcUVqWjM3Qmh0bWFmU2tnc3lnaG5ydDF6Z280S2U0bXBESmFDWVV3RU01dUMxdDNoM2RnenFGWjlpeDBFcHh4bU9sUi1nU09QVGs4OVVPS2tUOVRjdllnUExNSmRDTW8yaHY1SzVhcHk0QjFSY0Eyb1ktNDRLUmctRXlrNloxdlhTOEx3MlNPSA?oc=5",
       "published": "Wed, 11 Jun 2025 07:00:00 GMT"
-    },
-    {
-      "title": "الأسباب والأعداد والسياسات.. 5 أسئلة عن النازحين على مستوى العالم - الجزيرة نت",
-      "summary": "الأسباب والأعداد والسياسات.. 5 أسئلة عن النازحين على مستوى العالم الجزيرة نت",
-      "image": "",
-      "author": "",
-      "language": "Arabic",
-      "category": "World",
-      "publisher": "الجزيرة نت",
-      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPRUltc2pyem9qN1RSeVBXMTdHMG9QeUVSdnB2SUozQ1NDdnF0dkFucjVrbEtUSXBuempqOURpbXQxUE9GbE5KWFBVUkdFcmJwVlZ5cTdQMHViSzN6MEN5aWZmQVdUUUhLUjhxV21KZTdaa1l2VEx5Nm5WRUZOYmlnNWhMY0daeTJKOVBKN19Td1dpbUd4aFd2bnVsQW1yRGdJYjM4WjJZaldhUEF0dU1mRHd5YUZlNkxzeUlfSTExMHFieDg3NTVScWR2dEZVQVlIUVZxLXFSN0c3ZGFFV1RTT2w1VWxQa3RwbHRJRFl1SHN1LTI3VG5GVHZtbHpOdWgtZzUtUWl4VWN5Uy0tWEgwWGN1LUI0b0gxbHE0OWFLZUlsX2ZZalBpODBCYkE4QnZUcksycEhLMFlkWDdVbjk3R3NvZEktSk9JbkQ5TEl6WlJYY3ZLWDBTcEtJb9IB4AJBVV95cUxPZmtJTVZYeWdrNE1FeHF2U2pWY3hKSENyTzBtT3Fyc2ZyamlWQnNfcGdxX0lxcXlsRzN1U0duZmJCWDFqdWVCQXg4S3hkWU05ZnNxaUM5eTlUZEFnSDVkLTM0eEF3RXB6WkhoYnF1QTk3eXMxSVRJRzNHU24xWnhSYm9Fa0ZORGR4QWRHNUNOWkY5ek1BMC1GRkdubXNvbjVXbkIzRUpqTEt6dlBici0tM09kQV9fUWFSbXpQMERMb2NqVFJ1Mk9IakR5cDFmQzlMUkVnUlpnTGExTmh1dHM0ekMxMllFR3I2cXpERFRMLVNlMzJDQ3NXYl93ZG9FUkdhMWZjRWo2SXJqQW1ZZ0lhWHc0d0syZzJNbUNhNmUxLUwtaV9raGFJdmRwbFhfR1ZwdzctUFFIQ0lMMlBVY0MyWkhENXE5VUFDelhwVVZQd2t2ZDBQUl90VFkxcTBmazVP?oc=5",
-      "published": "Tue, 27 Jan 2026 08:00:00 GMT"
     },
     {
       "title": "من \"تيك توك\" للاقتراع.. كيف يقلب جيل \"زد\" طاولة السياسة العالمية؟ - الجزيرة نت",
@@ -2772,17 +2772,6 @@
       "published": "Fri, 16 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "الفاو: أسعار الغذاء العالمية ما زالت مرتفعة رغم تراجعها في أكتوبر - الجزيرة نت",
-      "summary": "الفاو: أسعار الغذاء العالمية ما زالت مرتفعة رغم تراجعها في أكتوبر الجزيرة نت",
-      "image": "",
-      "author": "",
-      "language": "Arabic",
-      "category": "Business",
-      "publisher": "الجزيرة نت",
-      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQRURPMkY0VVhuSzQ4Q19MQ1JjT2NjQWVhUHJXa1NmN1VKYXNGSzJxTzRwc3NCTEZYZHF2VHFfbk9Oc2dwdFZFdVQyaXZ3Wm1YbFVrYUFHLVRzTWw4UWxSV18xLUtmVUhpeExMZFI1MjZTY05hanBmWWpETE1GS1dsN0FiUC1uN0RDV0dSY1pxMUV1VGl1Wk1vTWQ3RjFDaWtWcHZJakNjM0dLWlhYRm1jTjVhcHVOcGZZTGx2bFprTTYxRUx4MzNqM1JVNXpVOVpybktESTJDLTJMREdSajQ1aDRyYi1sdGwxY1lOWWY4Z1laa0cxcFlxUzBvdVZaZjhHUmhzVkJmOFhlRnhQOGcwTURsZlZoMlEzNEtPZlJyWFBpOF84M3ltZmdUaVlkU2t3Wi1LSm03R1Bvdi1BT2c5UzBNQUNHMEVDNlNHdEJ1WWs?oc=5",
-      "published": "Fri, 06 Nov 2026 16:18:03 GMT"
-    },
-    {
       "title": "اتفاقيات الرياض ودمشق: ثقة في رؤية المملكة 2030 وتوافق على سلامة الملاحة الدولية وأمن الطاقة واستقرار الاقتصاد العالمي - صحيفة مال",
       "summary": "اتفاقيات الرياض ودمشق: ثقة في رؤية المملكة 2030 وتوافق على سلامة الملاحة الدولية وأمن الطاقة واستقرار الاقتصاد العالمي صحيفة مال",
       "image": "",
@@ -2792,6 +2781,17 @@
       "publisher": "صحيفة مال",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUWpxZ1lrZ0MxQVp5bHltcnRwczViWkdFcUVaZ3pLX2R0dUowUEpCNG0zRTlWcFFsR0dLTUNhaTdxQTNQT3BJMldUVzF3VjY3OTJBV2dTMkh3T0dFaEFVcURrZUp4N292OGtQWl9EdVZpVWFxRDZTeTdUU0M3UzVCR1RvNFg3YmhMNkxNVVN6NVVnREp4azUweUtkWFA0aUgxMGlwRjJPTlBXeElkWUNZbGstSUZZWFMtM3FIRC1QZlQzY1l6WkRCbldfcUlzU3U3V2pEbUdWY3E0Y1FRanc0XzFTZGVjV19keUQ2ekpxRFpvWVE?oc=5",
       "published": "Wed, 04 Nov 2026 19:19:05 GMT"
+    },
+    {
+      "title": "الفاو: أسعار الغذاء العالمية ما زالت مرتفعة رغم تراجعها في أكتوبر - الجزيرة نت",
+      "summary": "الفاو: أسعار الغذاء العالمية ما زالت مرتفعة رغم تراجعها في أكتوبر الجزيرة نت",
+      "image": "",
+      "author": "",
+      "language": "Arabic",
+      "category": "Business",
+      "publisher": "الجزيرة نت",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQRURPMkY0VVhuSzQ4Q19MQ1JjT2NjQWVhUHJXa1NmN1VKYXNGSzJxTzRwc3NCTEZYZHF2VHFfbk9Oc2dwdFZFdVQyaXZ3Wm1YbFVrYUFHLVRzTWw4UWxSV18xLUtmVUhpeExMZFI1MjZTY05hanBmWWpETE1GS1dsN0FiUC1uN0RDV0dSY1pxMUV1VGl1Wk1vTWQ3RjFDaWtWcHZJakNjM0dLWlhYRm1jTjVhcHVOcGZZTGx2bFprTTYxRUx4MzNqM1JVNXpVOVpybktESTJDLTJMREdSajQ1aDRyYi1sdGwxY1lOWWY4Z1laa0cxcFlxUzBvdVZaZjhHUmhzVkJmOFhlRnhQOGcwTURsZlZoMlEzNEtPZlJyWFBpOF84M3ltZmdUaVlkU2t3Wi1LSm03R1Bvdi1BT2c5UzBNQUNHMEVDNlNHdEJ1WWs?oc=5",
+      "published": "Fri, 06 Nov 2026 16:18:03 GMT"
     },
     {
       "title": "تداعيات فوز الديمقراطيين وتأثيرها على الاقتصاد العالمي 2026 - annahar.com",
@@ -2827,26 +2827,15 @@
       "published": "Thu, 05 Nov 2026 15:32:09 GMT"
     },
     {
-      "title": "خبير اقتصادي: أسعار الطاقة ارتفعت 50% بسبب الحرب والعالم يواجه «اقتصاد القلق» - اليوم السابع",
-      "summary": "خبير اقتصادي: أسعار الطاقة ارتفعت 50% بسبب الحرب والعالم يواجه «اقتصاد القلق» اليوم السابع",
+      "title": "أيمن غنيم لـ \"إكسترا نيوز\": الغذاء والطاقة تحولا إلى «سلع سياسية» - اليوم السابع",
+      "summary": "أيمن غنيم لـ \"إكسترا نيوز\": الغذاء والطاقة تحولا إلى «سلع سياسية» اليوم السابع",
       "image": "",
       "author": "",
       "language": "Arabic",
       "category": "Business",
       "publisher": "اليوم السابع",
-      "link": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxNekhCdllEZEltM1JDOGxzMEJ6ckFQTGk5NkVEN09iRjBtU2x6cFpvUEFZSWY4ZzgtWHBiT0p2ajJ2UXd0RkRvcEdHeXIwM0V6SVFzOF9QMlNGUXFSTW9mYkxUOU5GaFZoVS0xQVNkOFBxMTM0dWFBOEQ2RWUweWVoanZJMmhucmxyWlFFYjFwRHpXUjFRN09iZjdpaE1VQlhnc1RsZ1Z1TWN3WGtuYVJnYnk2V3ZFWTJicWhOWTM0SkcxV0ZoZ01iT2FYM24yYUQyTGRKT1l3Q1FPYUM2WDVWU2lVMTJYTThpZUNCVW14U3VWTS1oMkNnWXhHdldKak9Dc3NScWJTX0xVVk15WVkzYXZYVzBsaGZDZFRCUFZfdjBCMzdmQWJTSDcxd0pXNllMSnJpVkJCUzNOTUM5cXdnY1RPNkxRc1JnM3ZMcmNsel90T1c1SDZYenduMkVRaVVDVS1GYW0ySlpvT21ZY1FHTTExZ1dhdml3V2doLWJXcl95Z3JRQWU5Y3VlNDdTWjRGYXZJYVBvX0xJQlRGUGlWTXhwWXJnTkFZUkF2cnhpSk1TbUNjdktPYUItRkhkWGZTZHJoa2tuNkdWUXdEWExSQ1RxTXQ3YldFQ3d2ZzFTYUticmEtWjBqNE1GQkVTN3N40gHrA0FVX3lxTE81N0wtSEYyTzRlQVkzX2N3OXc1TFVXMkxrU0J3TnlQN092eG1uc1JzWVBJTW1sV2FJUkI4WHA4M1Y5dFVTVEdqZ19HQVQtZlo2ZWVwcmt3Vmk3Tzl0MTlHWlFaNnlxd0lBWndTb3JwTkJrWnkxVExHanIxa1dxRGVWOVc2dEt3bUpPeVNyYk5kRzZXMWxFLUFxOGZfaUpnZUEtOHlNcURuQ0Z4ZEJXS1JScE9nbXNnT0l0UXB0a0hpNm5QSTJmck5IcmFwZVBmUUhpaHlhRVF5V0lWeXlBZVpPbkpGOTlRRjlJR2VHaUgxZmtfZW05VGh0M0hOd29RTmFxYlJRT0NkZ3lDMnRNRU5TWER6LWVuUUtGSWZVa3BBM2lXM1FjMjBwYVloMGt5MmtkcnBMYUt2MDdwQ0dJWFphM0RYSmFVUVFULVpSQ1JjZHNLOVNmYnVqbTlzei1nZVJIcm90NThIRE5pbnpreEJGelRBTVdVWkh4TE9KM2ZmeWh1MzNEdHQyc1dlR1BuaVFSMFlJR1Q1eEt3Mm9hTWpMNTdTMWREWG5rbVlZWlpLMHQ4blVveFk2cmFkVVRtNURNWlh0RW1WVHg4eENmdWR3MUJZdXZQbHJwQm9wbFppa2lieVdZa3VoTHpj?oc=5",
-      "published": "Fri, 06 Nov 2026 14:00:00 GMT"
-    },
-    {
-      "title": "حوار واستثمار - الأيام البحرينية",
-      "summary": "حوار واستثمار الأيام البحرينية",
-      "image": "",
-      "author": "",
-      "language": "Arabic",
-      "category": "Business",
-      "publisher": "الأيام البحرينية",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYVFwVWtVaDRmalZ5VU94d2t2UXB4SVZlNDVveU1jR3hhZ2RZeUZYUXBEYVhBeFU4eGdyUC1oTVRvbWVnTDVBM0NRQnctdmFXT2RITkxseEtsZS10cDEycmt4MkRJd1dzX2lxck1DRDcwTDQteFFJSG50ZDRFd3BBaVFyeVdFS21laE01MlJSTkI0ckc3WEh5cGtIN3ZGd2NfaHR2SE8wQUpsVXh6X1l1dlk4SnV4cmlWS2FMUzRRQWJqZHF6WnJYZVQ4dw?oc=5",
-      "published": "Fri, 06 Nov 2026 21:52:48 GMT"
+      "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxPUl9hdEVwaXcwa1dlSUlRd1ZzR2g5Vk9UNUZNV082dUVabENZNUY4eFp5bU85d2NLUEx3QjgwRnZKTWppOFFpZXRlMURyQkZvTi00QlhIUHd1RUtfZmdPT1JNYkVNSnFUSEg1b0pqVzdQTVJ3ejdqTlN5MVExSkUwNkk4QzcteDNiemVMNkFjQTNpQ3RUZUM2UzBfU0pjYWFCUmZNM1J6dWlQWkxaZndrOWNlUkhFY3pzNXc4ZkJ6ZjJ6clVhNDNNZXRqSGtaYkVPa2wwNFdQMV9iVjV2LTRhemFZWTZCWGE3cG16d1ZOa0RFZ3Z0ckdyanJpVEx6bVl4Xy1xcE05LTlmenFRUzIwZWdIdl8xMHRhS3Z4cTRMeEVFT1NXNTlYa2FjdUg1MVl3TXR0QWpBb01zTTd5aDFOcmQ0OHU3QXZHQ2daYm13M0Q4Z1ZQS2FFWmpJS0EtVTlyaDFzN0hxajVqY3BNazR5UzFPdXVoVWdRTTlqeEdYUmxxbFlCOVE5b3ZDbzBRSmxYMnVKblVycTVueGdFd0syYWxWUndMOTVEUDF3ZHVuelBmVjRtdG1Mb0lobmxleFh2YXNGX3liNHFDdWFhRHfSAcgDQVVfeXFMTkMyOW80QmgzYnRQVTJ5UTJ1eFZ3NWFqMHVkbmxGYnVPSUpJZXJxVjdES1lCUU9XYl9VOXFTTzBQWjVEeFZIV1NKY2lQSkZ6ZEZtdTRnUVFNVzk5YUJNM0ttZ2hEMnZ3NDlIRXBPTnl6ZEc5X0U2S0pzZnlfcjUyZVVEMl9CNVZ0WHlVR1d4cmFnT0RuS01zVFJDYUN2N280LVg4cm9JbWh2Ry1ybHpNdV9iTmpiU2hYWE5CeC01cWFSeXJQcTI1N3FBejhSbUczT3dia1VITWRudFNYTWpodmo0Q091bVNRVWpIb1pSZGxlaE5OQmRwVzFOVmdaT082b29aZHNFRHNITk1UT3AxVU95SW9KTkI4dF94eUdfTWllOGt0a3FlY0VGT1dMaGRHQlY2RGF0dm1DQVFTWnFzendIb0QwcGQ3ODFZT3pienFFOHNHUjFNV1psU2pZbVlTY0tFSWlXdUc5MjNNQWFYcVFqUUhhRUFFdE9xOGwxZnFhTUxCUld0V3Z6Z202T1FwZXZCUGRtOU9WYVFZNEQ0Si02T05YUTRVUFVmUWphbURIQWlma3pEUTFkbDRzUlkyNDJsQkJWSEo5?oc=5",
+      "published": "Sat, 07 Nov 2026 03:00:00 GMT"
     },
     {
       "title": "دانيال موس: الاقتصاد العالمي يرفض الانكسار رغم الحرب وأسعار الفائدة - الشرق بلومبرغ",
@@ -2858,6 +2847,17 @@
       "publisher": "الشرق بلومبرغ",
       "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxONnZCNjVRQXYtTzRoNkJueTZ0ejVsbHZEalprQzh5d1lCMTl2aUFINU1IZkNkSFk1Rmo2MFZsQzcyOGx3dUpTV3UzZDJxR3laeFFpVlM3N2x1VXkyUEZGZlZqQTlwTHpPUDU3WWtGaE00eDE5NFhDckZ5VENfd3FDUjlnWUZxb2pSZWNvNWZKVWdFMkJPaUp0c1A2QkctT09ON1o3YWowVFQ3NUwyRnFuQjFsQzVDcldSejJtWWFvZGFJUDZmWnM0Q3k2eFdIR0psLVlUejRLdlJQNmlOUXR6Y1pickU2aV85eEhiR2VZdVQ5QVlEckdGTFpSTVFJNGVWdmdidzlXYlFrNlRJM1VTNGxyWnY2NW1RUGF0OHEtWE52eHNkWm9FTG05ZGlCS3lRa1UwVTlzaDdsUmstTjh2ZjJoVVFSbnNseldYVEtTM3RIZzU4R1RvU0haYVdkNjRzSTJsQmFDQ0dtcndzaVRXbjhudUxIMVZROHIwMXpFMmVWNHRxZGdpdE8wZ1V2Wm4xb1hVNGVTS2dTZlRoRmJZWFFWQ1FWSGpHX1V6ZEdTdmZqcHR3UGd3OW1mbnJNY2Nzb0hSTGZFYW0yNUZIYzBfVEFzeU1HZWM2bTd0TEhiVTZpdw?oc=5",
       "published": "Sat, 17 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "حوار واستثمار - الأيام البحرينية",
+      "summary": "حوار واستثمار الأيام البحرينية",
+      "image": "",
+      "author": "",
+      "language": "Arabic",
+      "category": "Business",
+      "publisher": "الأيام البحرينية",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYVFwVWtVaDRmalZ5VU94d2t2UXB4SVZlNDVveU1jR3hhZ2RZeUZYUXBEYVhBeFU4eGdyUC1oTVRvbWVnTDVBM0NRQnctdmFXT2RITkxseEtsZS10cDEycmt4MkRJd1dzX2lxck1DRDcwTDQteFFJSG50ZDRFd3BBaVFyeVdFS21laE01MlJSTkI0ckc3WEh5cGtIN3ZGd2NfaHR2SE8wQUpsVXh6X1l1dlk4SnV4cmlWS2FMUzRRQWJqZHF6WnJYZVQ4dw?oc=5",
+      "published": "Fri, 06 Nov 2026 21:52:48 GMT"
     },
     {
       "title": "حماية حرية الملاحة البحرية.. مسؤولية عالمية - جريدة الرياض",
@@ -2904,15 +2904,15 @@
       "published": "Fri, 06 Nov 2026 13:41:14 GMT"
     },
     {
-      "title": "خبيرة اقتصاد: الحروب الجيوسياسية تعيد رسم خريطة أسواق الطاقة العالمية - اليوم السابع",
-      "summary": "خبيرة اقتصاد: الحروب الجيوسياسية تعيد رسم خريطة أسواق الطاقة العالمية اليوم السابع",
+      "title": "خبير اقتصادي: أسعار الطاقة ارتفعت 50% بسبب الحرب والعالم يواجه «اقتصاد القلق» - اليوم السابع",
+      "summary": "خبير اقتصادي: أسعار الطاقة ارتفعت 50% بسبب الحرب والعالم يواجه «اقتصاد القلق» اليوم السابع",
       "image": "",
       "author": "",
       "language": "Arabic",
       "category": "Business",
       "publisher": "اليوم السابع",
-      "link": "https://news.google.com/rss/articles/CBMivgRBVV95cUxQSTdTaFYwQnBrS0dZT2hHRmJqTzVKN24yUWlQWlpEdjFXM2JjMVd6UDNNb2pGTnM3WllmUllVbjRsVWlyYjV4d1dGU3JURjZ0YndLWFdfaHdSa0RHZUVvTzRRYzVadG5vclpYbUt4LW8yTGxQN3ZVZEViZmVzODNRT09kcmFabXFpSTFDYUJ3ckIwYVZpdkt1WHJ0bml6V2M1a205eURBY3N1dkZwN2ZsZGZUaS1SVEtRZ19yNERPUDRVU25sZ2RKdFhpODZHdnBDZkd0Z1c2QlRfVDdaYTlqaFg3YTNDb1lJTHNjbkM1NmRIVXBCV2ljSDdlc3FtYjFLSjgtV0JpdEtwV25HMXR5NXpfVmtPYWhPekJPUlJtampqcHd4R29pUkVFTE9zWHNFZEVEWV9ab0pUZXdXd19zS3Zsc0R5Q05CRG9mcVNOU1RiaUhNdktXT2Vhb0hoak9lcWxjOXE2cF9yVGRILWxwNFRHeTg2eFI4RzJVYldFNHBOZ1RXVkY4ZHRjdkpNYWx6SVJyQVpGY0ZUS3hrSVE3ZWNNbXplekpDNTRxNW9uQU5QX0tzWF9adTNFV3JycjJ1WUpKdWNkclpOenlhWm9WY1FuN3RfMy03MmE1MkZmdTBIUW9JcjdUbnM0ck02NWhsc1MwMW5zX2xMQk5RMTZzMno1bW5BMkctTXRnbV90Y0lpcVZ2MVg1TXZXeUsydDd2M2VCa0w1eHhDSjUyN0hiWVFtZHRnQVNHV1VMV1N30gG4BEFVX3lxTFB3RU9meU11Y2hOTi1BbTRPLVlnTjFaeXhHUk5HTXRjWUxUMkI5RF9SM1lJb2RMTHJwZ1VkOUZEbWlmSEg1M1pwNHVvODdLS3QwbGx2ckQtTlhfZmcwU2NQWEl6OEZTYmxSMTJLMi1acnBBUmdtYVcxbUhzMU9CSnBncldycTNfSFVxTl9WT3FkTjBTSXpxVnBCOWlIaGtib01ybVNqbWIyb3BKSDJoVzdsNnNxTzBvT21Uam55bXdOSDgwY0ZzajVGZFJEb0ZFRXIyamxjdVl6VnBBRk5vMldIQ0swdUdITVFSRE85ekJsTFA2Uzg3NWtLSkRZRTRoWE5SYnRlcm1BWFVSN0NoRFpJUlRBcERsVjllTjFYaEdJTndCRmZkeXF0enJUbWFHNDR6SXZNTEtFSlF4UlhQWEgzNjFPdVk2bUthUExwUG1hLXYweFFJWXI0N3FOdHBlRGpNR2ViWEVIeFI0WDlPZUh1UWNPYnB4TUhmd0hWVmtHQWw1ZXd2a1FKTkYtS0hNY3ByMW5XbVk5al96X25QdTkwc2tlZlc3V2M2R3BBeEppa25rdUlRTVJ6V3JtOV80cmNnSlNfS18wUHI3NnFUUVVOaXg5LXlTdnoxNkU4SXJkaUF5cGtyOXQ3RTJQaktYZi1JZ3AtSWdaMzJneFVOWkJDWXZPTnQ3c24tQnFGbzNTZFhwSmNqNVRKVHMzMkM1dl82U3hXbHF4NnpUWmZJRkFIemROakp1Rl8?oc=5",
-      "published": "Sat, 07 Nov 2026 02:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxNekhCdllEZEltM1JDOGxzMEJ6ckFQTGk5NkVEN09iRjBtU2x6cFpvUEFZSWY4ZzgtWHBiT0p2ajJ2UXd0RkRvcEdHeXIwM0V6SVFzOF9QMlNGUXFSTW9mYkxUOU5GaFZoVS0xQVNkOFBxMTM0dWFBOEQ2RWUweWVoanZJMmhucmxyWlFFYjFwRHpXUjFRN09iZjdpaE1VQlhnc1RsZ1Z1TWN3WGtuYVJnYnk2V3ZFWTJicWhOWTM0SkcxV0ZoZ01iT2FYM24yYUQyTGRKT1l3Q1FPYUM2WDVWU2lVMTJYTThpZUNCVW14U3VWTS1oMkNnWXhHdldKak9Dc3NScWJTX0xVVk15WVkzYXZYVzBsaGZDZFRCUFZfdjBCMzdmQWJTSDcxd0pXNllMSnJpVkJCUzNOTUM5cXdnY1RPNkxRc1JnM3ZMcmNsel90T1c1SDZYenduMkVRaVVDVS1GYW0ySlpvT21ZY1FHTTExZ1dhdml3V2doLWJXcl95Z3JRQWU5Y3VlNDdTWjRGYXZJYVBvX0xJQlRGUGlWTXhwWXJnTkFZUkF2cnhpSk1TbUNjdktPYUItRkhkWGZTZHJoa2tuNkdWUXdEWExSQ1RxTXQ3YldFQ3d2ZzFTYUticmEtWjBqNE1GQkVTN3N40gHrA0FVX3lxTE81N0wtSEYyTzRlQVkzX2N3OXc1TFVXMkxrU0J3TnlQN092eG1uc1JzWVBJTW1sV2FJUkI4WHA4M1Y5dFVTVEdqZ19HQVQtZlo2ZWVwcmt3Vmk3Tzl0MTlHWlFaNnlxd0lBWndTb3JwTkJrWnkxVExHanIxa1dxRGVWOVc2dEt3bUpPeVNyYk5kRzZXMWxFLUFxOGZfaUpnZUEtOHlNcURuQ0Z4ZEJXS1JScE9nbXNnT0l0UXB0a0hpNm5QSTJmck5IcmFwZVBmUUhpaHlhRVF5V0lWeXlBZVpPbkpGOTlRRjlJR2VHaUgxZmtfZW05VGh0M0hOd29RTmFxYlJRT0NkZ3lDMnRNRU5TWER6LWVuUUtGSWZVa3BBM2lXM1FjMjBwYVloMGt5MmtkcnBMYUt2MDdwQ0dJWFphM0RYSmFVUVFULVpSQ1JjZHNLOVNmYnVqbTlzei1nZVJIcm90NThIRE5pbnpreEJGelRBTVdVWkh4TE9KM2ZmeWh1MzNEdHQyc1dlR1BuaVFSMFlJR1Q1eEt3Mm9hTWpMNTdTMWREWG5rbVlZWlpLMHQ4blVveFk2cmFkVVRtNURNWlh0RW1WVHg4eENmdWR3MUJZdXZQbHJwQm9wbFppa2lieVdZa3VoTHpj?oc=5",
+      "published": "Fri, 06 Nov 2026 14:00:00 GMT"
     },
     {
       "title": "هرمز والسويس وباب المندب.. كيف تتحكم نقاط الاختناق البحرية في الاقتصاد العالمي؟ - العربية",
@@ -2935,6 +2935,17 @@
       "publisher": "جريدة الرياض",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8xal9ESVBYUGNIdE1qYjVNOWt2RHVYM2VMMmpSTHJiWWx5V2JwdjdlSE4zeHB2OG5ZYzJnWXAxTUVjTjdoSUNv?oc=5",
       "published": "Thu, 05 Nov 2026 22:50:14 GMT"
+    },
+    {
+      "title": "خبيرة اقتصاد: الحروب الجيوسياسية تعيد رسم خريطة أسواق الطاقة العالمية - اليوم السابع",
+      "summary": "خبيرة اقتصاد: الحروب الجيوسياسية تعيد رسم خريطة أسواق الطاقة العالمية اليوم السابع",
+      "image": "",
+      "author": "",
+      "language": "Arabic",
+      "category": "Business",
+      "publisher": "اليوم السابع",
+      "link": "https://news.google.com/rss/articles/CBMivgRBVV95cUxQSTdTaFYwQnBrS0dZT2hHRmJqTzVKN24yUWlQWlpEdjFXM2JjMVd6UDNNb2pGTnM3WllmUllVbjRsVWlyYjV4d1dGU3JURjZ0YndLWFdfaHdSa0RHZUVvTzRRYzVadG5vclpYbUt4LW8yTGxQN3ZVZEViZmVzODNRT09kcmFabXFpSTFDYUJ3ckIwYVZpdkt1WHJ0bml6V2M1a205eURBY3N1dkZwN2ZsZGZUaS1SVEtRZ19yNERPUDRVU25sZ2RKdFhpODZHdnBDZkd0Z1c2QlRfVDdaYTlqaFg3YTNDb1lJTHNjbkM1NmRIVXBCV2ljSDdlc3FtYjFLSjgtV0JpdEtwV25HMXR5NXpfVmtPYWhPekJPUlJtampqcHd4R29pUkVFTE9zWHNFZEVEWV9ab0pUZXdXd19zS3Zsc0R5Q05CRG9mcVNOU1RiaUhNdktXT2Vhb0hoak9lcWxjOXE2cF9yVGRILWxwNFRHeTg2eFI4RzJVYldFNHBOZ1RXVkY4ZHRjdkpNYWx6SVJyQVpGY0ZUS3hrSVE3ZWNNbXplekpDNTRxNW9uQU5QX0tzWF9adTNFV3JycjJ1WUpKdWNkclpOenlhWm9WY1FuN3RfMy03MmE1MkZmdTBIUW9JcjdUbnM0ck02NWhsc1MwMW5zX2xMQk5RMTZzMno1bW5BMkctTXRnbV90Y0lpcVZ2MVg1TXZXeUsydDd2M2VCa0w1eHhDSjUyN0hiWVFtZHRnQVNHV1VMV1N30gG4BEFVX3lxTFB3RU9meU11Y2hOTi1BbTRPLVlnTjFaeXhHUk5HTXRjWUxUMkI5RF9SM1lJb2RMTHJwZ1VkOUZEbWlmSEg1M1pwNHVvODdLS3QwbGx2ckQtTlhfZmcwU2NQWEl6OEZTYmxSMTJLMi1acnBBUmdtYVcxbUhzMU9CSnBncldycTNfSFVxTl9WT3FkTjBTSXpxVnBCOWlIaGtib01ybVNqbWIyb3BKSDJoVzdsNnNxTzBvT21Uam55bXdOSDgwY0ZzajVGZFJEb0ZFRXIyamxjdVl6VnBBRk5vMldIQ0swdUdITVFSRE85ekJsTFA2Uzg3NWtLSkRZRTRoWE5SYnRlcm1BWFVSN0NoRFpJUlRBcERsVjllTjFYaEdJTndCRmZkeXF0enJUbWFHNDR6SXZNTEtFSlF4UlhQWEgzNjFPdVk2bUthUExwUG1hLXYweFFJWXI0N3FOdHBlRGpNR2ViWEVIeFI0WDlPZUh1UWNPYnB4TUhmd0hWVmtHQWw1ZXd2a1FKTkYtS0hNY3ByMW5XbVk5al96X25QdTkwc2tlZlc3V2M2R3BBeEppa25rdUlRTVJ6V3JtOV80cmNnSlNfS18wUHI3NnFUUVVOaXg5LXlTdnoxNkU4SXJkaUF5cGtyOXQ3RTJQaktYZi1JZ3AtSWdaMzJneFVOWkJDWXZPTnQ3c24tQnFGbzNTZFhwSmNqNVRKVHMzMkM1dl82U3hXbHF4NnpUWmZJRkFIemROakp1Rl8?oc=5",
+      "published": "Sat, 07 Nov 2026 02:00:00 GMT"
     },
     {
       "title": "مجلس التعاون الخليجي: مضيق هرمز سيبقى شرياناً أساسياً للاقتصاد العالمي - annahar.com",
@@ -2979,17 +2990,6 @@
       "publisher": "الجزيرة نت",
       "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNZ3lkQXhuNnVfckc0RFp2dC1lZndpb0RTSTFlLXFJcF9lUzI0YTNFN1J4Wldxek10R0xCX1JERmJPX0NZZTVDWW1mSFRLdzlBUUo4cTZNNm96WmpOMUVMc3BENmZnSHp1VmlxcFU1Snl2RHRjTmlXSUx5cGUyTU44eUE4eS10cHpFTWZoVGs3TWFpQVdhWDZZSGdrbEwySDBKRkNsSGhOcDhCUnpvdHY0LU5obUFuTjlxLUJDTUhsSUZYMUtvUl9WejRXYVJCOGsyeEVpWTVoc1hJVjNNZ1NtSVZ1dzJMYWhZUllobDA3Y04xXzV2TjAtTjJhRXRkS3NYZFZ6STIzRmpfSTF5a3psWUctME00WjRkNXNyZVllQmdBelhjRVZVTUkxQUVxV3dsN0lTN0lBOA?oc=5",
       "published": "Sat, 17 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "محافظ البنك المركزى: احتياطى النقد الأجنبى يسجل أعلى مستوى فى تاريخه - اليوم السابع",
-      "summary": "محافظ البنك المركزى: احتياطى النقد الأجنبى يسجل أعلى مستوى فى تاريخه اليوم السابع",
-      "image": "",
-      "author": "",
-      "language": "Arabic",
-      "category": "Business",
-      "publisher": "اليوم السابع",
-      "link": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxPU1dWQjJROHI1UVFYaDVGNHN0OThieWI2MHNYU2V1VE9NZXQtMlAyWWU0RFJyN3d3VF8zby1GRmdSdlRvTzUyR2ZwSXFJWUJUTWNfWEFlSUYyVE5ZOTJFb2NIYk9Kc1I1eEsyY3BCbVNmb2hZNHFDUERSWWJWUWFWbzk4bEJ1Z09yUXJWOHpFV0JSdUpRam4wSE5va3JKTmNmOHZLWGtBd0c5QWswNEc4c3cwS1VBVndRSGJnYXRwRUp1NXEzQzU0aFJJV0hielpVX21iZy02NDhmYWtCOEJMNndIT0tIbmNxTVdGUTVJQU1nMUxZSHJldm9Pb2tTTjZIRFBlSFRveVllMDhUc0cwVzRPRDRWQ1dKWXNvQWZxbWJrQ3AtTm5mZE5GNFpnUlNtZnlfbl9iYWVpdDBHYWFpdUFoSXV3VDZaUnRSUVNhQTR4UGV1eTMweWZxZ3A0ckJpem9qN1lGREI4aVNaY1RlcGd5U2JLTUtHYmRVa3lUT2xORlNPX25qVDRYcmhCN3cxalhwSUN5STkzU3Faa004d2FiYUtSRTR3Zk4yVVdUR0Y0aklYWkk5eW5kV1liclhEdGpRZ2VNbVdSQWc4MG9TZEhUSnhaZWlvYmFBWlhLdW4yMFpFMlZRUnZIVVhXMVBsdHUzV1lIaXpmbzU0SXfSAfgDQVVfeXFMTWZ0LXkwUVhyV0Vxc0RpSmdIRE1RSUszeHJLZGdLLXhWckw2d19LbXU5VE1WekJSZlY4cGIzeWJ6TzVrNG43QXdPbWxIWFVocVp2T2R4d05hVFBQeUpWSUxwOENTTmktbDR5YVJyanVjQ25nNXlDVG9fM0NHWHlWZ3gxa2V6VnA1VzQ4VTYydXFQWFpvVTFZTWUyWVZkb0F3VG81dm51YndxWnNGeVpCVDkzd19BTmI0TEpnS0Z3aE9scWJHRkpvc1Z6TzdpRzJkMHllb21XUlE3SmJGd0ZiVGE0OHprRThsZG00SWlLUkw1SlBwRENybFpTVXNRR181WXFlcVFWS094V000OTBjdGR0UEhYa0IyMVFuZjNxSG1DcUQzaUxDQzYyM05IT0FST3F6QVltbld5bWplLU9tZGFsS0ppOWpIRGU3VTN6Q1l3SWJpSHBRd09IMXR2MEUyQUhzWTc3Y0dsOXA4NUxvaDZUQ2hoaHZQUmhPSVdFcENISEtqNlJCbjFseUdFYmY4bmIwczliZTNIZkEzRGFuNk5JdURjWVFlNi1WTWVfQjlJcVU3NkVuVXhVYXRlZ19BRTVYRmVJekt3cllNZnNDa1I2MnBncDN0b05TUEtUMHB0SG5sUjBGNTNuZFZhZ21aQWFCYzVLTXd0?oc=5",
-      "published": "Fri, 06 Nov 2026 14:06:00 GMT"
     },
     {
       "title": "انتخابات التجديد النصفي: أسهم شركات التكنولوجيا تهوي وسط مخاوف من إبطاء وتيرة تطوير الذكاء الاصطناعي - BBC",
@@ -3091,17 +3091,6 @@
       "published": "Fri, 06 Nov 2026 19:31:51 GMT"
     },
     {
-      "title": "أكاديمية «زادك» للطهي تستكشف تقنيات الذكاء الاصطناعي والروبوتات في بكين - صحيفة سبق الإلكترونية",
-      "summary": "أكاديمية «زادك» للطهي تستكشف تقنيات الذكاء الاصطناعي والروبوتات في بكين صحيفة سبق الإلكترونية",
-      "image": "",
-      "author": "",
-      "language": "Arabic",
-      "category": "Technology",
-      "publisher": "صحيفة سبق الإلكترونية",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1QcV9rM0ZndHhoTmdPOW1MWWxWMTVKMm9OZ0lLWTc1b1QzUmxlcFQ0YTVQZi1jdHlEdzMwd2p5d0RiOFlrTVZ3?oc=5",
-      "published": "Fri, 06 Nov 2026 05:45:32 GMT"
-    },
-    {
       "title": "انتخابات أمريكية وقرارات فائدة وبيانات وظائف.. واختبار جديد لأسهم التكنولوجيا والذكاء الاصطناعي بواسطة Arincen - Investing.com",
       "summary": "انتخابات أمريكية وقرارات فائدة وبيانات وظائف.. واختبار جديد لأسهم التكنولوجيا والذكاء الاصطناعي بواسطة Arincen Investing.com",
       "image": "",
@@ -3122,6 +3111,17 @@
       "publisher": "الجزيرة نت",
       "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPM0YxMVBSLW1TOXhRSE5jRnRGMnZBNFY4YWVxVTBqbnViLVR5bUJELUZfRXU2UEl4SFVkc2c4d3hxWW9PaW95dExHY2JISzdwSUotSVJUS1NReWtfVDZmdXhHd2kyY1FfRUtMSGJSb1pqcTYtMWFKa291b2RrVklST25Senh2S1ZqV0xOT2lpbC0yTDFjc1p6M1hodENkVGw4ZlNmMHh0cktWQ1JkbDdUV3BXcjJ6R19yUm5sTjUyS1BjN2JTWXJ3dVM3Z3BVR1FpajI1S1JzRTAyYW9HYTdtRS1nVmR6NlczenpDaHRibTUzdVROSmJ3Ny0tTWEwMFYzSUdnenlWai1iV0d4emtZLVNLZ2xkam1kaHdvdXJlSTM1M2doWkdNalpZdEFadFpRbG82NEdTRlVKdVUydUR5Um4zUHlyN2dmaHpJeUVreXUybDR0aEdvSzFB?oc=5",
       "published": "Fri, 06 Nov 2026 10:57:37 GMT"
+    },
+    {
+      "title": "أكاديمية «زادك» للطهي تستكشف تقنيات الذكاء الاصطناعي والروبوتات في بكين - صحيفة سبق الإلكترونية",
+      "summary": "أكاديمية «زادك» للطهي تستكشف تقنيات الذكاء الاصطناعي والروبوتات في بكين صحيفة سبق الإلكترونية",
+      "image": "",
+      "author": "",
+      "language": "Arabic",
+      "category": "Technology",
+      "publisher": "صحيفة سبق الإلكترونية",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1QcV9rM0ZndHhoTmdPOW1MWWxWMTVKMm9OZ0lLWTc1b1QzUmxlcFQ0YTVQZi1jdHlEdzMwd2p5d0RiOFlrTVZ3?oc=5",
+      "published": "Fri, 06 Nov 2026 05:45:32 GMT"
     },
     {
       "title": "طفرة الذكاء الاصطناعي تحوّل تغليف الشرائح إلى ساحة المعركة المقبلة لأشباه الموصلات - قناة المملكة",
@@ -3146,17 +3146,6 @@
       "published": "Fri, 06 Nov 2026 12:52:04 GMT"
     },
     {
-      "title": "فقاعة الذكاء الاصطناعي بين الديون والقيود السياسية.. هل تنتقل الخسائر إلى البنوك؟ - CNBC عربية",
-      "summary": "فقاعة الذكاء الاصطناعي بين الديون والقيود السياسية.. هل تنتقل الخسائر إلى البنوك؟ CNBC عربية",
-      "image": "",
-      "author": "",
-      "language": "Arabic",
-      "category": "Technology",
-      "publisher": "CNBC عربية",
-      "link": "https://news.google.com/rss/articles/CBMiiwVBVV95cUxQc0VLY3lCNHVwZXp5OFlvSnhCOU55eXM1bTZZbTFfeUxFMDhnQ2RUWXh1VGpIb0t5emVnV3RxckZMem9XMnppRWpvTWhBVURhZGczY3FsS0JaLUI0M3M3VDhPOUJxVTdjTmZ6ZVU2clJZcGNlR18xTXNwMW4tSThHUzA2czhzT2xWWEN6aUt2Rl9rbzRYd0xCNHI0aTBVOWhVelRKNGZZbDFBTXdlXzdDWXJ2ak9VRGt2WVEtc1JEcF8wNThwN2xRV1AzY3VGQ3JmNVVCTlFueUNtb0NDSm81YW5OTFg3RGo1dHN6UXpVdXBCQnpfdm5tTk5xVWlRbHhoVkpod2JXRjlCeVc1WjM5TVF5X0x4RjNGNnRnWXRyLVdMVXM2UXVEX0JwQjdqYzNvZU55REw4dVhaMG9vcEUxYkJYRzh6X0lwOVZLUzVDV0stdGlrTDJQSHplV29LZU5welA3ZlBXYlVkX0E2a255TUZsazcxUHhmODY1TFJGNmk5RTNmbHNRUmxhTk9NekNCX2oyMU8xSHJsa3hUWWx2UGpsZF9XV0Q3WEtFWm5OdW5aMFBWZXhiZWY0VEVnQkJ0NThERGZHMVBCYU9BQzRYczhMQkk0SUEyLVY3ZlhJdTZXU0g3djdhYzZWUUo5eFdyb1Y0Y19WSUNtX29DTEZLSzdlSE4xQmpxMUhNLWtQYjJ0ZkFwVmg1eV92NVBoMEhsYXJueU5kOWJlelBfVlRJQWZ4UmZHZDdUYmlxUlQzajdubHRvMnZxYjNYTVhUaWQ1eW83UjhQZ1laaXZ1bHN6V3dwTG91dDlMaUJyUWIweWd4VnhNUFZscFJHQnNKTzdvQWxTWEFkRUd3YWM?oc=5",
-      "published": "Fri, 06 Nov 2026 09:11:42 GMT"
-    },
-    {
       "title": "\"أبل\" تخفض مخصصات استخدام موظفيها للذكاء الاصطناعي لضبط التكاليف - الشرق بلومبرغ",
       "summary": "\"أبل\" تخفض مخصصات استخدام موظفيها للذكاء الاصطناعي لضبط التكاليف الشرق بلومبرغ",
       "image": "",
@@ -3166,6 +3155,17 @@
       "publisher": "الشرق بلومبرغ",
       "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxNUk5fWW9ETUxwNDc3eHg0b180RGZ3bHdXMnVRaGk4eGkwRlAyM0dDd2FtbDZrcTZjaEtNVDk2OW5CRUk0X3U1SkZ6SEdnamNqOExxVXVSTW5PWmNQQ2YzTEh3ck9pTURKdks4b05mSW9YU0hiTkFzY185cExIaTA2SEZrNzFTcjdqcEV5ZnVtOHlhVzhkcndEajlSMlNBSU9oMXdmV19YT240YXhDX1otQk1IaGk3LW4waTBqSzdLVlBDUFY3eHVXNUpLdldwTXFoeDFlTklFSElUUUpDUkNLZDVwYnhjMVBUT1JPVDlfdHdXeWQ2TF81S0M0U1RYNENJVi1IUnY0M1ozbnpKd1JrQ09MOFB0UzRyNzFaNVBwa3E0cW9MMnUzM3FVMFJReW90TThCOWNFTHJ3Snh4c0NJN3F2N0otZEl3em1YWElMV0E4MXdiS0JBRExQUll5dVlZVWxaNzQ1MnRxOF9YbW8xWEhKRVF0czBRbUV5RDZPeDNTc05vZW43UGFGOHQ2RmxlbkRyTl9DSUZYakxLWlkxZWNFbzZOS2h6dDl4NklQNi0?oc=5",
       "published": "Thu, 05 Nov 2026 14:57:56 GMT"
+    },
+    {
+      "title": "فقاعة الذكاء الاصطناعي بين الديون والقيود السياسية.. هل تنتقل الخسائر إلى البنوك؟ - CNBC عربية",
+      "summary": "فقاعة الذكاء الاصطناعي بين الديون والقيود السياسية.. هل تنتقل الخسائر إلى البنوك؟ CNBC عربية",
+      "image": "",
+      "author": "",
+      "language": "Arabic",
+      "category": "Technology",
+      "publisher": "CNBC عربية",
+      "link": "https://news.google.com/rss/articles/CBMiiwVBVV95cUxQc0VLY3lCNHVwZXp5OFlvSnhCOU55eXM1bTZZbTFfeUxFMDhnQ2RUWXh1VGpIb0t5emVnV3RxckZMem9XMnppRWpvTWhBVURhZGczY3FsS0JaLUI0M3M3VDhPOUJxVTdjTmZ6ZVU2clJZcGNlR18xTXNwMW4tSThHUzA2czhzT2xWWEN6aUt2Rl9rbzRYd0xCNHI0aTBVOWhVelRKNGZZbDFBTXdlXzdDWXJ2ak9VRGt2WVEtc1JEcF8wNThwN2xRV1AzY3VGQ3JmNVVCTlFueUNtb0NDSm81YW5OTFg3RGo1dHN6UXpVdXBCQnpfdm5tTk5xVWlRbHhoVkpod2JXRjlCeVc1WjM5TVF5X0x4RjNGNnRnWXRyLVdMVXM2UXVEX0JwQjdqYzNvZU55REw4dVhaMG9vcEUxYkJYRzh6X0lwOVZLUzVDV0stdGlrTDJQSHplV29LZU5welA3ZlBXYlVkX0E2a255TUZsazcxUHhmODY1TFJGNmk5RTNmbHNRUmxhTk9NekNCX2oyMU8xSHJsa3hUWWx2UGpsZF9XV0Q3WEtFWm5OdW5aMFBWZXhiZWY0VEVnQkJ0NThERGZHMVBCYU9BQzRYczhMQkk0SUEyLVY3ZlhJdTZXU0g3djdhYzZWUUo5eFdyb1Y0Y19WSUNtX29DTEZLSzdlSE4xQmpxMUhNLWtQYjJ0ZkFwVmg1eV92NVBoMEhsYXJueU5kOWJlelBfVlRJQWZ4UmZHZDdUYmlxUlQzajdubHRvMnZxYjNYTVhUaWQ1eW83UjhQZ1laaXZ1bHN6V3dwTG91dDlMaUJyUWIweWd4VnhNUFZscFJHQnNKTzdvQWxTWEFkRUd3YWM?oc=5",
+      "published": "Fri, 06 Nov 2026 09:11:42 GMT"
     },
     {
       "title": "\"العظماء السبعة\" يفقدون تريليون دولار في يوم واحد.. هل انفجرت فقاعة الذكاء الاصطناعي؟ - العربية",
@@ -3190,15 +3190,15 @@
       "published": "Fri, 06 Nov 2026 12:25:19 GMT"
     },
     {
-      "title": "أمازون تتيح التسوق عبر الرسائل النصية باستخدام مساعدها «أليكسا» - CNN الاقتصادية",
-      "summary": "أمازون تتيح التسوق عبر الرسائل النصية باستخدام مساعدها «أليكسا» CNN الاقتصادية",
+      "title": "عاجل: أبرز 5 أسهم رابحة لشركات التكنولوجيا والذكاء الاصطناعي في وول ستريت بعد ارتدادة الصعود - CNN الاقتصادية",
+      "summary": "عاجل: أبرز 5 أسهم رابحة لشركات التكنولوجيا والذكاء الاصطناعي في وول ستريت بعد ارتدادة الصعود CNN الاقتصادية",
       "image": "",
       "author": "",
       "language": "Arabic",
       "category": "Technology",
       "publisher": "CNN الاقتصادية",
-      "link": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPbXpjQzU5R2dWaGNKTGZoRUFEOE1NakJZaVZqYzY4d0k2RFNacXJOcFBIWmhhSlpOQnduMHlKdXR1bldvMUxNVGlTcjE0ZThBWnllREFDWkdfMEdTUGJRejVQRjF6QU03S2RyTU5QY2stVWlOUWdiU0NFT3liOGcwOWVmN3pGUEVoZDBNalhSQ3dvcmo0ak5uT05xT3JYMXYzSmJGMzVKSjhhVXpjb2Z0cFBmSGY2X0FKY0J2dndpRVpUMWExdG9pODI4Y0pvTElUQW45SXN5RTNIZjJmb2hrUHVsWDYtNFdZdHVINHdNci1EZ3k5MDU0dl9MQ1FpVENwTkJ4TU5VT01ITmVJNUlDNjlSMDh5clk1ZHhjekd5SW43Y1lPSzk2aFFMT1B6czNYYTRFSzVuSjdQWFo2V1J6NUFnX1VDLTdnQkhycUpWMDFMaW5ZMUxwcTRtbl9rbERweUt1ZjJCek9DblRqX1pTVTNYVTE2YzVWWHdEQ3RoTmk4LVRTbGxaekZoQ0tMeGhselpIUXByM3NRdUZvcVFHYlNVekNlaXBpVGxoMmxMZHhic2wwMEx5QWdPNl9YWXpaUnZQcG8zYUtob18yeTEyc0doT0x6OVNadlNsQmZueE1EWWVrUV9tc2JEVkljSkZSaFoxazNYczIya3c5ZERlQzJkYWNySlNhN0Q1UVZGLUlKeFBlaElF?oc=5",
-      "published": "Fri, 06 Nov 2026 15:33:59 GMT"
+      "link": "https://news.google.com/rss/articles/CBMi2AVBVV95cUxNVFlNNHVGSm5rVHhtcnRvNWZIZFdIYWlmczYzcGFxckE4OVNPSTdLN0t3Qy1DS1ZfbTV6UklHUWFaNUFRQUkyMEk3WFc1bmFuOTlwMjd4NDV3MTBVRkJFZmg4bU05OG52MWJQWjloZnVCZ2pNWEdYMmZ0b2MyUFlvbl9IcHRjZXZJOGFiWHlyQ3l0VzUyS1pnR3ZsTnFfeDZFT3JMM3Z5ZC1JWUVvblNOSW1EQklKa3o0NVNxczN1QlJMQWxNRGRncEt2SGx3OW5vcmY1TEprNElNT0hsMm9kOTJDZk9ua0RkQ1hMVFNhUzJwb0F6VHJLeDBpaWNrbm9CMWliWVUybFNibXZrRVBIWjgyMjNjWFliRHh5TmlTVEJjUUV0X1pWYXozeE93Yl9EUXBxcjZfQWVMSjIwaDV5OVFJUDMtZ3U4ZlpkTkNJV3VnSWdMT25pQXFBakc5NWlGcVFTTmp0dHBTTjZjZHV2ME1HQTBYYnZxbnJSQ2R4RzFZQTRGLXV3aDNSU0o1NWtmZW51TjBSdUhrYjhIUE9kckhtVTlKdXhsaE5qUkwtS3k1dWpQcnNyT1p1dk9acG1COVZuaFFHWlFYV08zUDFyWkFqUTBsY19kOVUzc21QU1ZzYWVySUFBTmJxUGItaVVKeVhCREJYcFljOXo0aU5aTEVaNnNtVERPQVBIalhsWEt0azk1dzRlWkxjLU1pcEVZQTJoZVhoR3VDdUpMc3REaVcwZmRtT3IxOU9PWjFUSkdob1VXME1fRnFTLXRLd0NFalBVYzBzU2tnTkJ2aDZSelJoamZ5a3k5NVFDUHZudUg2V1hocXYwTV9yTDN6RkphamRKRUhoWEVmQlU1bGU4TUhoTGRPRXpJcUh5Qm9rODNqQkJzb3BPVmEtMHoxQ2xRaXEwVWJ2VmIwMXV3cDM5RW5ZSUFJRzZEbjB5Q0trZi1FOXJqNFM1MA?oc=5",
+      "published": "Wed, 04 Nov 2026 19:21:10 GMT"
     },
     {
       "title": "هل سيصبح الذكاء الاصطناعي قدرة تطويرية جديدة لشركة Hue؟ - Vietnam.vn",
@@ -3212,17 +3212,6 @@
       "published": "Fri, 06 Nov 2026 22:59:58 GMT"
     },
     {
-      "title": "وفد من خبراء الإمارات يبحث آفاق الذكاء الاصطناعي في وادي السيليكون - جريدة القدس",
-      "summary": "وفد من خبراء الإمارات يبحث آفاق الذكاء الاصطناعي في وادي السيليكون جريدة القدس",
-      "image": "",
-      "author": "",
-      "language": "Arabic",
-      "category": "Technology",
-      "publisher": "جريدة القدس",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHbTJBbURQU2FHZ3B5R0JLQThDdE9qZXE3cjJjSWJpaVZpSzh6azMyMXpzaHpTeW1sSzdHYVBkWGtCaUtOcGN4R0hQNmZNalFwcGo0cFlaQU0wbXRCRFd1a0VJMEZOUkVHbFpidXhQRndwX1piM19TNjlR?oc=5",
-      "published": "Fri, 06 Nov 2026 18:34:18 GMT"
-    },
-    {
       "title": "موجة بيع أسهم التكنولوجيا تكبد 22 مليارديراً آسيوياً خسائر تتجاوز 18 مليار دولار - البيان",
       "summary": "موجة بيع أسهم التكنولوجيا تكبد 22 مليارديراً آسيوياً خسائر تتجاوز 18 مليار دولار البيان",
       "image": "",
@@ -3232,6 +3221,17 @@
       "publisher": "البيان",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ScnFRbklYNGdWLW9qLTBNNml4Z2JHbGMyQkwwTGFiemYwaTdGM3dJdEVYQzJrQnhmY3pJdlJIWDY3bTI0RW45OUpQUlk2QTlNTkluNGNMSGlMZkpsTkJRMVByTVNrbmpoTWlJUjlB?oc=5",
       "published": "Fri, 06 Nov 2026 14:36:00 GMT"
+    },
+    {
+      "title": "وفد من خبراء الإمارات يبحث آفاق الذكاء الاصطناعي في وادي السيليكون - جريدة القدس",
+      "summary": "وفد من خبراء الإمارات يبحث آفاق الذكاء الاصطناعي في وادي السيليكون جريدة القدس",
+      "image": "",
+      "author": "",
+      "language": "Arabic",
+      "category": "Technology",
+      "publisher": "جريدة القدس",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHbTJBbURQU2FHZ3B5R0JLQThDdE9qZXE3cjJjSWJpaVZpSzh6azMyMXpzaHpTeW1sSzdHYVBkWGtCaUtOcGN4R0hQNmZNalFwcGo0cFlaQU0wbXRCRFd1a0VJMEZOUkVHbFpidXhQRndwX1piM19TNjlR?oc=5",
+      "published": "Fri, 06 Nov 2026 18:34:18 GMT"
     },
     {
       "title": "هيوماين السعودية تضم CNTXT لتعزيز خدمات الذكاء الاصطناعي للشركات - Wamda",
@@ -3245,15 +3245,15 @@
       "published": "Wed, 04 Nov 2026 14:02:20 GMT"
     },
     {
-      "title": "عاجل: أبرز 5 أسهم رابحة لشركات التكنولوجيا والذكاء الاصطناعي في وول ستريت بعد ارتدادة الصعود - CNN الاقتصادية",
-      "summary": "عاجل: أبرز 5 أسهم رابحة لشركات التكنولوجيا والذكاء الاصطناعي في وول ستريت بعد ارتدادة الصعود CNN الاقتصادية",
+      "title": "أمازون تتيح التسوق عبر الرسائل النصية باستخدام مساعدها «أليكسا» - CNN الاقتصادية",
+      "summary": "أمازون تتيح التسوق عبر الرسائل النصية باستخدام مساعدها «أليكسا» CNN الاقتصادية",
       "image": "",
       "author": "",
       "language": "Arabic",
       "category": "Technology",
       "publisher": "CNN الاقتصادية",
-      "link": "https://news.google.com/rss/articles/CBMi2AVBVV95cUxNVFlNNHVGSm5rVHhtcnRvNWZIZFdIYWlmczYzcGFxckE4OVNPSTdLN0t3Qy1DS1ZfbTV6UklHUWFaNUFRQUkyMEk3WFc1bmFuOTlwMjd4NDV3MTBVRkJFZmg4bU05OG52MWJQWjloZnVCZ2pNWEdYMmZ0b2MyUFlvbl9IcHRjZXZJOGFiWHlyQ3l0VzUyS1pnR3ZsTnFfeDZFT3JMM3Z5ZC1JWUVvblNOSW1EQklKa3o0NVNxczN1QlJMQWxNRGRncEt2SGx3OW5vcmY1TEprNElNT0hsMm9kOTJDZk9ua0RkQ1hMVFNhUzJwb0F6VHJLeDBpaWNrbm9CMWliWVUybFNibXZrRVBIWjgyMjNjWFliRHh5TmlTVEJjUUV0X1pWYXozeE93Yl9EUXBxcjZfQWVMSjIwaDV5OVFJUDMtZ3U4ZlpkTkNJV3VnSWdMT25pQXFBakc5NWlGcVFTTmp0dHBTTjZjZHV2ME1HQTBYYnZxbnJSQ2R4RzFZQTRGLXV3aDNSU0o1NWtmZW51TjBSdUhrYjhIUE9kckhtVTlKdXhsaE5qUkwtS3k1dWpQcnNyT1p1dk9acG1COVZuaFFHWlFYV08zUDFyWkFqUTBsY19kOVUzc21QU1ZzYWVySUFBTmJxUGItaVVKeVhCREJYcFljOXo0aU5aTEVaNnNtVERPQVBIalhsWEt0azk1dzRlWkxjLU1pcEVZQTJoZVhoR3VDdUpMc3REaVcwZmRtT3IxOU9PWjFUSkdob1VXME1fRnFTLXRLd0NFalBVYzBzU2tnTkJ2aDZSelJoamZ5a3k5NVFDUHZudUg2V1hocXYwTV9yTDN6RkphamRKRUhoWEVmQlU1bGU4TUhoTGRPRXpJcUh5Qm9rODNqQkJzb3BPVmEtMHoxQ2xRaXEwVWJ2VmIwMXV3cDM5RW5ZSUFJRzZEbjB5Q0trZi1FOXJqNFM1MA?oc=5",
-      "published": "Wed, 04 Nov 2026 19:21:10 GMT"
+      "link": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPbXpjQzU5R2dWaGNKTGZoRUFEOE1NakJZaVZqYzY4d0k2RFNacXJOcFBIWmhhSlpOQnduMHlKdXR1bldvMUxNVGlTcjE0ZThBWnllREFDWkdfMEdTUGJRejVQRjF6QU03S2RyTU5QY2stVWlOUWdiU0NFT3liOGcwOWVmN3pGUEVoZDBNalhSQ3dvcmo0ak5uT05xT3JYMXYzSmJGMzVKSjhhVXpjb2Z0cFBmSGY2X0FKY0J2dndpRVpUMWExdG9pODI4Y0pvTElUQW45SXN5RTNIZjJmb2hrUHVsWDYtNFdZdHVINHdNci1EZ3k5MDU0dl9MQ1FpVENwTkJ4TU5VT01ITmVJNUlDNjlSMDh5clk1ZHhjekd5SW43Y1lPSzk2aFFMT1B6czNYYTRFSzVuSjdQWFo2V1J6NUFnX1VDLTdnQkhycUpWMDFMaW5ZMUxwcTRtbl9rbERweUt1ZjJCek9DblRqX1pTVTNYVTE2YzVWWHdEQ3RoTmk4LVRTbGxaekZoQ0tMeGhselpIUXByM3NRdUZvcVFHYlNVekNlaXBpVGxoMmxMZHhic2wwMEx5QWdPNl9YWXpaUnZQcG8zYUtob18yeTEyc0doT0x6OVNadlNsQmZueE1EWWVrUV9tc2JEVkljSkZSaFoxazNYczIya3c5ZERlQzJkYWNySlNhN0Q1UVZGLUlKeFBlaElF?oc=5",
+      "published": "Fri, 06 Nov 2026 15:03:59 GMT"
     },
     {
       "title": "الذكاء الاصطناعي يواجه رفضًا داخل المتاحف الأمريكية.. الزوار يتمسكون بالفن والإبداع البشري - صوت الإمارات",
@@ -3322,15 +3322,15 @@
       "published": "Fri, 15 May 2026 07:00:00 GMT"
     },
     {
-      "title": "ست طرق تدعم بها الوكالة الصحة العالمية من خلال العلوم النووية - International Atomic Energy Agency",
-      "summary": "ست طرق تدعم بها الوكالة الصحة العالمية من خلال العلوم النووية International Atomic Energy Agency",
+      "title": "ست طرائق تساعد بها العلوم والتكنولوجيا النووية على حماية البيئة - International Atomic Energy Agency",
+      "summary": "ست طرائق تساعد بها العلوم والتكنولوجيا النووية على حماية البيئة International Atomic Energy Agency",
       "image": "",
       "author": "",
       "language": "Arabic",
       "category": "Science",
       "publisher": "International Atomic Energy Agency",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaGtfa1ZUNC1lcFdVTjJMUUFYb1NBbnlqZXdCSGJlVm5ueXFpbUZjdXFTVkFKWWg2MG9ORENYU2lmVkRkSTZBVzZQMktmVDE1eXpJN090S1hiejc4RG5CU21IaExkZGRNSGI3SVB0NUxxekVVbDRQUmlEY1VDT2tEOVkzdlVCTlNGeEFZblcxWDZsLTRDZEl6Mmk5eGRPTV9wVVNkcGxR?oc=5",
-      "published": "Thu, 16 Apr 2026 07:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUy1WaExVd0NtX0FsS2dTOGUzdmkwamFzZnVLZ0IzTUJ3akNqQTRIYThBeVY0T3pZcEFZSVpzVE1HamV4amRab1JveVJqWFd0QmkwVHM5ZENUa1gzcXNGMWtxcDU1NjRWckZLSVFhMzlrSnN1M3lRS253a09OcGVCQkpmLWd1OFh0Y0JQWk5qUmRJRG51cEVlaTRycFNKZGRN?oc=5",
+      "published": "Thu, 13 Nov 2025 08:00:00 GMT"
     },
     {
       "title": "العلوم قوة، والجميع يستفيد عندما تكون النساء والفتيات جزءا من الثورة التكنولوجية - UN News",
@@ -3386,6 +3386,17 @@
       "publisher": "الاتحاد للأخبار",
       "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNMjQ4a0RIOHh1SWk4NnA3OTVUeXdIV1l2RGJXdmhqSE1CUFlEZTQzMHJpM2F0dUJfZFNmNG85ZVlETG1XdExfaUdnYVY5aTM5VDQ2YTdFUXhyc0ZxdW5ydDh2b2ZzbHNHZFZteXdIdFE1blhIVEZIUHUyaGV1M21JZ2FwcFU2OUp4Nld3NWRwYVkzNUpvaWlWaERhUXVmZ3VPSmZ1UF9XdzJGOVZTYVBib0R3OUhkQ095aENfODBmYjgwNkxsdVdEdFZ0VS1LdWtKeHhLY3l4ckVaR1NFZEtseXJiV25vM2lxS01uNi1LXzF4V2U3Si1EcW0wNnBFQ3pyVDRSaTNwejNnaUlZWEg5aTkxaFc4azU5Rlp6X2c0WGV2VTRpUWstWVNvTjZlSmFVNXJudnNUZmFPLUE4anU3d0VlVDc5Vzc2YzVfeWpNRHJUbDJmb2t2UW9TN0tiY25uSWt0b1RILWRSdlVvT25hWlRwS2Eza09ZYW1ZX3A4STR0ZTA5TWZSb2dLTWdWYWptSVVvWXFTYVBqNDRNanFwNTJ3?oc=5",
       "published": "Sun, 25 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "ست طرق تدعم بها الوكالة الصحة العالمية من خلال العلوم النووية - International Atomic Energy Agency",
+      "summary": "ست طرق تدعم بها الوكالة الصحة العالمية من خلال العلوم النووية International Atomic Energy Agency",
+      "image": "",
+      "author": "",
+      "language": "Arabic",
+      "category": "Science",
+      "publisher": "International Atomic Energy Agency",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaGtfa1ZUNC1lcFdVTjJMUUFYb1NBbnlqZXdCSGJlVm5ueXFpbUZjdXFTVkFKWWg2MG9ORENYU2lmVkRkSTZBVzZQMktmVDE1eXpJN090S1hiejc4RG5CU21IaExkZGRNSGI3SVB0NUxxekVVbDRQUmlEY1VDT2tEOVkzdlVCTlNGeEFZblcxWDZsLTRDZEl6Mmk5eGRPTV9wVVNkcGxR?oc=5",
+      "published": "Thu, 16 Apr 2026 07:00:00 GMT"
     },
     {
       "title": "الثانية على الإطلاق.. امرأة أوكرانية ضمن الفائزين بجائزة فيلدز العالمية - الجزيرة نت",
@@ -3529,17 +3540,6 @@
       "publisher": "الجزيرة نت",
       "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPOE1mX2FETlltYmlWMHE3eE5ld1VVZ3lxRDlNZ3h0bnBsSnNYZTllWFExb3dQWmJrc20za0dYSUJqYW1fQlp1Q0xOYXllbXFGWExoUlA2TUJqTklkdGRkM3RnVEo1aG9PdTM5Tlo1MjVXMjdJZ3N2eXhOWm9Ud3BfdjFZcXk2dmFxXzZrU1BxcjRERXZTMi0wbHdPUC1oMTBqU2l5RTd4Y1JFWnJ3cUVuTkRrM1E3SnpCTVRwVm1JYlhLNWplZE1QRGJoT1A5UEJQbWs5cGc2azBicVdhWlVWNkxxZjJwNmxjSmdLOU1vajVHaU1jV21lZU1pWUMwMktsRFFpZTQ4RGZSdVFYOW9LdnFETkxKcmdrelNXdmVOUFRYc0wt?oc=5",
       "published": "Sun, 10 May 2020 07:00:00 GMT"
-    },
-    {
-      "title": "الاحترار العالمي يدفع الغابات القطبية للنمو تحت الجليد - الجزيرة نت",
-      "summary": "الاحترار العالمي يدفع الغابات القطبية للنمو تحت الجليد الجزيرة نت",
-      "image": "",
-      "author": "",
-      "language": "Arabic",
-      "category": "Science",
-      "publisher": "الجزيرة نت",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNdTlVNXZueE9td0hrNG9wVEUzVGpsTlpwaXZyeTJpNFZKZzFxQXBjZzdBel9UdEJTY29WaXItQXB4aXQzdHhLYWR5OXl3S2F4YU04N2ExY0lUZDZwOUM5eEZvX0dZbXBzZzBzZE9QenZ2ZEpXdWF0bXUwWkw0X1QweGpMWk5jbEtyeEJLcm4ya3RvcS1RcVprdDh4V29xZjU4NWdkbnY2XzgzREhqVWlGUzhHeU8zMmllTC0wcHhWNkFoVE90aGxvMUFmOXFvWHNUSElMcGF4S2tjM2tpdlNkUFBkblZwbHNlNExfOWxBTGxsY25kd3ZmUGRmZlZWOHZCQmplS2txdXNMZEFwM2w4dEhpakdybC1FYTlIVExwUTI3cUtkWnk4V3hhbw?oc=5",
-      "published": "Thu, 23 May 2019 07:00:00 GMT"
     },
     {
       "title": "\"الصحة العالمية\" تحذر من تفشي الحمى الصفراء في 9 دول أفريقية - صحيفة سبق الإلكترونية",
@@ -3718,17 +3718,6 @@
       "published": "Fri, 06 Nov 2026 10:17:14 GMT"
     },
     {
-      "title": "تحذير من الصحة العالمية بشأن انتشار الحمى الصفراء في أفريقيا - capsulah.com",
-      "summary": "تحذير من الصحة العالمية بشأن انتشار الحمى الصفراء في أفريقيا capsulah.com",
-      "image": "",
-      "author": "",
-      "language": "Arabic",
-      "category": "Health",
-      "publisher": "capsulah.com",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1aRUZpWnAzMVJ4WkJZUGVNUFZNa1BhVEVueTVmNlEteVZoQ0pCMFAwb0dYNFFZcDRBd1JyUjBzSWNMbUlQ?oc=5",
-      "published": "Fri, 06 Nov 2026 15:16:31 GMT"
-    },
-    {
       "title": "الصحة العالمية: لقاحان جديدان لمواجهة إيبولا في الكونغو الديمقراطية - alyaum",
       "summary": "الصحة العالمية: لقاحان جديدان لمواجهة إيبولا في الكونغو الديمقراطية alyaum",
       "image": "",
@@ -3738,6 +3727,17 @@
       "publisher": "alyaum",
       "link": "https://news.google.com/rss/articles/CBMiqAVBVV95cUxPQTMybkJUVk53RjlNTlZaekh0VEQtQzJ1cXJHRG5mU2dPQUxPLUVZRkdQOUQtYlpIRVNZUXRwLTZ5M0tlbm9YVy1MY0o2RUFXaFhJeUxYZXJFU1J1N2R4aW5qYmRpeTVfQ0F6S19saVh2NWMwM0ctQ3dlZDBSWFg5bHJZYk0zelJoRWFQYUNST3gyVDF5X29CQWNkU1p1X09aTTc0TGNGTXRnR1hYM01SdVdYQlpZREFkNVVuaGpSQ0xJdjdiSi1YOFFXVnEycEV1WXdYMTk2N2FDTkRvYnpoLWxfckQ1ZVlOUVlRelpEaUNVMktvbDVuNzRTZVd5QW5CbmhkdUZTdDRtUnF0XzFVU0h6RXpNLVhKNUdUX1Q0dm1JR3ZhRUNYVFFJZHM3VEd0WGRPWVlHaS1FdXFqdl9VWlJZVVRzdDJmR1NJM1E0WFFLblJIQTktR0VqZHhNcXl3WDJ3dmRHVjltNjMzZWtwOGlBQlFsNk1zN1NZTXlqSm5uLUFkSTFlOERxdXdRTl9kQV96Zmlzc2lrbk5rc0dMdjdkMDFoWFRLemNvRkhvR2hKeVJhc1BZZUxTT183VWhHN25Gd3JXVUlROTdxVkhxREFUMl9yRktHUEdlRnpjV25Bdl9sOUhEZ1BDVmRHMjNfcmlvbUFxaVpvRjFBdGxCM2dRQktVTFhrZjBwRTVwZFBnb1VkRVBrcUkxSU1DQjZVbkZEckN2VXVESjhkUnlzZV9NaUdoTWEtdms5em1mMlp6TEduY0F6N2V6QW5GRjRsS2dmaG5NVTBiTWk5Q3c0eHVYSlhtM2h5M2laUS1xOU1WV2xubHpvYlFSLWs0Mi1jaFR0OW9UdGp4VlRLUzNZQXFqa25ZUmN5Rm83dFU3aVItNUdOUDNmM9IBU0FVX3lxTE02Sl91TE40djl4NW1QVklWam04MkRlTkJ6eXJUS1pyTDFoX2M5Q0V6RVBERVJPUjBST0tIMi0yMXZNdU9QWWhVSWNmQnFGbll4RzhV?oc=5",
       "published": "Wed, 04 Nov 2026 18:15:00 GMT"
+    },
+    {
+      "title": "تحذير من الصحة العالمية بشأن انتشار الحمى الصفراء في أفريقيا - capsulah.com",
+      "summary": "تحذير من الصحة العالمية بشأن انتشار الحمى الصفراء في أفريقيا capsulah.com",
+      "image": "",
+      "author": "",
+      "language": "Arabic",
+      "category": "Health",
+      "publisher": "capsulah.com",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1aRUZpWnAzMVJ4WkJZUGVNUFZNa1BhVEVueTVmNlEteVZoQ0pCMFAwb0dYNFFZcDRBd1JyUjBzSWNMbUlQ?oc=5",
+      "published": "Fri, 06 Nov 2026 15:16:31 GMT"
     },
     {
       "title": "واحد من كل أربعة مراهقين في العالم أفاد بأنه لم يمارس نشاطاً بدنياً في أي يوم من أيام الأسبوع السابق - World Health Organization (WHO)",
@@ -3883,17 +3883,6 @@
       "published": "Sun, 01 Nov 2026 08:11:06 GMT"
     },
     {
-      "title": "رياضي / الرياض تستضيف \"مؤتمر الرياضة العالمية الجديدة 2026\" قبيل انطلاق كأس المنتخبات للرياضات الإلكترونية - وكالة الأنباء السعودية",
-      "summary": "رياضي / الرياض تستضيف \"مؤتمر الرياضة العالمية الجديدة 2026\" قبيل انطلاق كأس المنتخبات للرياضات الإلكترونية وكالة الأنباء السعودية",
-      "image": "",
-      "author": "",
-      "language": "Arabic",
-      "category": "Sports",
-      "publisher": "وكالة الأنباء السعودية",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBMY3B4VmRSZFRlRjhKT1VlWU0yLWNxVjNaOXZjWU9vYjEwaEt1dEZNeG9PeVl2cmZWeElXa2d0MHhkaVJrV2c?oc=5",
-      "published": "Mon, 29 Jun 2026 07:00:00 GMT"
-    },
-    {
       "title": "بوتين يندد بتسييس الرياضة الدولية ويرفض استمرار إقصاء المنتخبات الروسية - جريدة القدس",
       "summary": "بوتين يندد بتسييس الرياضة الدولية ويرفض استمرار إقصاء المنتخبات الروسية جريدة القدس",
       "image": "",
@@ -3905,15 +3894,15 @@
       "published": "Thu, 05 Nov 2026 19:41:30 GMT"
     },
     {
-      "title": "مارسيلو وتيريزا بيراليس، أسطورتان من عالم الرياضة العالمية، يحضران اليوم الثاني من أسبوع ريال مدريد الأبيض - Real Madrid CF | Web Oficial",
-      "summary": "مارسيلو وتيريزا بيراليس، أسطورتان من عالم الرياضة العالمية، يحضران اليوم الثاني من أسبوع ريال مدريد الأبيض Real Madrid CF | Web Oficial",
+      "title": "تحت رعاية خالد بن محمد بن زايد.. النسخة الـ18 من \"بطولة أبوظبي العالمية لمحترفي الجوجيتسو\" تنطلق في نوفمبر 2026 - مكتب أبوظبي الإعلامي",
+      "summary": "تحت رعاية خالد بن محمد بن زايد.. النسخة الـ18 من \"بطولة أبوظبي العالمية لمحترفي الجوجيتسو\" تنطلق في نوفمبر 2026 مكتب أبوظبي الإعلامي",
       "image": "",
       "author": "",
       "language": "Arabic",
       "category": "Sports",
-      "publisher": "Real Madrid CF | Web Oficial",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQVlZxTlVzMnc2TXFfSFRMMHoxbVhwM1NFbHNsaTlRV0lQaFN1Q3JUWmpTU2dVUHF1dHh3RnVNcWJaOHFlQ2FlWjREZnhQWmI0VWk4QWlMUmVyMU5Jak43algyS1ROWkRTcnVuejJVY2dHMXRwbl9QOEg1WjNyRzR5dGpBSWl0RUF1anJpamhRbjh6Qmh3MGFsSGhwUFlzVDN1S2ZuYjEzR0hEdmxMMTkteUoyUTQ0MjNKRnpSLU13V1MtQTdHRW5NRi1DbDE5NlpSb25pbUtEYjZKczdod1FKQ0xhdnNTWWZWd1M5N1ZGWEVmNWxtVlN5enR1cXo3TUh1dFludElCakY4QQ?oc=5",
-      "published": "Tue, 24 Mar 2026 07:00:00 GMT"
+      "publisher": "مكتب أبوظبي الإعلامي",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNFY2QXg0c295YjhBWHp0WHhSM1NhbjRpam5JTFdNVGlHX1B3U3g1dGZxVHRxNE4tSW5qMllhZENvZnJFcDQycGpvYWRGLXJnRFVwZ0oxQ05QeHlJcWZ1RlJkamJpSnd2TWtGc1FtTkoxZXVnNV83dDF6VklTWG5oa3lHbk9DektxVElzQ0ZObkZ2eHBza0NERnJGVS1ERmd4ZHdJU2JFZHdEemtoWnl3ZWlGOE5sTTlKcl9oLTdhRk9TY1U3ZFJNRkVqLWRZLWs0UENhYkxTVnFkRllZYUlZSjlWZDF3WTJKZkRkN1pySXg0SXJXUTdFN1d5WnMwYkk5bmxzc1hnLVRBRGQxREJN?oc=5",
+      "published": "Wed, 04 Nov 2026 07:01:03 GMT"
     },
     {
       "title": "السياسات الرياضية على المستوى العالمي وأهداف التنمية المستدامة - The International Platform on Sport and Development",
@@ -3927,15 +3916,15 @@
       "published": "Fri, 30 Oct 2026 02:05:35 GMT"
     },
     {
-      "title": "فيصل بن بندر بن سلطان: «نسخة باريس» أكدت المكانة العالمية المتنامية للرياضات الإلكترونية - الشرق الأوسط",
-      "summary": "فيصل بن بندر بن سلطان: «نسخة باريس» أكدت المكانة العالمية المتنامية للرياضات الإلكترونية الشرق الأوسط",
+      "title": "دبي تستضيف الجولة العالمية لكرة السلة \"3×3\" للمرة الأولى... - جريدة الغد",
+      "summary": "دبي تستضيف الجولة العالمية لكرة السلة \"3×3\" للمرة الأولى... جريدة الغد",
       "image": "",
       "author": "",
       "language": "Arabic",
       "category": "Sports",
-      "publisher": "الشرق الأوسط",
-      "link": "https://news.google.com/rss/articles/CBMikgVBVV95cUxOQk1BQXF0eFRUU2dDdWx4SHhVZUJROWtQTjN2QU1La2NvbWMtcW51QVRoMmxDUUNEb3lQMVNQREpSVF94VS1WWmR4d0VlbmtycVdHbFBKQ1ZCYzVDUlBfNGcwdS03OS10aE1xUUl1LUlnNUlQRVdlUjdSQk50c2pzcm1uRVl4RWRkN25VR1ppYUtpLVVCdkZIV0tZb3VGTFphNWlTb2czUDlmelNQcTlGT3BuSDFxRjgzMVAtYjdpLWotZk96X0ZPRXlrV1hJUUMxQ0h5MkI2MEJYRXJ3akZyaC01c09nV3pKNW84X1p3LTdHYkVvXzVpNTFJUFMxSkRLTll1anhPWHRRZnY0cVJuWUJqT2hBcEhKNW9fZkdiQW9YT28yUnBlaWc1UmIxcExyWWd5VGtsQ0VtNnhidDBVM0lUN2ZQYmpzTDFCY2FQa3FWSTgzck9jRWVRTkRqSnZlRXlaaGN1Tk9pTTFRYmw3aW11eWdDMWowaVBXN2p5dVJQS3htYy1RaGt4ZHEyUmhkOHcxVUtSMkFRMGlrWXRldi02UU5UOFRnNHFKYVE5NC1KSFNnSWhxeDRITGlhcGxIUnVIZGxiRXlGWGdGcjNPMWpuNFVuNzYwUUhXZTNXQWJzMUFZNjhMejB1M0JYMnhSNmVCVFlrcjFNdGxDVmhzUHN3ejJJRXkySmh5XzN1ajNrUHFkMG9xLWItY2d1Yzk2S2NpeGlMeWo3MzhVcVotdWlvdTNFblpPU3pDOUk2ZTA4N0VFZG1SMmRNUXE0YzdHcUt0UkhXTmlVNGlMSllNb0pRSVJwRFY3NHhNZFFJX3c0VUpqc0M0eDc4Z1JpS1NRM1JaTFpIT3dMeVVYSlFjamln?oc=5",
-      "published": "Sun, 23 Aug 2026 07:00:00 GMT"
+      "publisher": "جريدة الغد",
+      "link": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxPeDlMUlh0X0R1T0xUZkR0UkZVdXNVVHE1cWpJa1hoSjBudTdVa1dRR3lSd3JtcDNpU0tyTG0zTVlxemRzcWRGazZLdVlqR05XbzBqY3U1T18xaFRvckFKVjV6MEF6cVZDSzhjZTFXdWd0bUxqYWRqMzA4T1hsOTc4X2NxNzB0elVobThtUVZZenJXdGZiaWpKZlRCdnFvX2U5TnoyRmliLVVwS3NwMl9zTnMwMkxwVS1sV0prMnBuX0tUZS1KQjk1ODVYUU5sMm93Wi1aOVUybWVmelQxT19CMzlXc3ZlVEVfSk1GZFljbVhIZi1WV0ozUElfVG9wQUZ5RGYzRFdreFhUaWhNRml0VHNBZ1c5NEtRcXBjWV9PbTZZend6SXFSN0d5aUFQWWhwSy1BVS0xdzlEaWU1bDMwNUhaSmJNZHg2TkdUVGVyMXJpc3hwRFJBVUV2a0F5MFdFWlFOcFdXeExIaDlCSDVuaF9wN2dfUVQ3LV9NYU4zaG9DWmxZN2NsVG1XYmhQTktUbTlHaEJ3TjYwcUpnY2J5TFUzakZIOVIyajdZNUtaaF9DVTFOT0tXdmdWOHNOUVVrZWhPSGdwbnhxaDFZVTNCbm5XeDZlVjFXbW9rMHJvOWpoMkt4MEpsSkxRektZRHJo?oc=5",
+      "published": "Thu, 05 Nov 2026 17:53:47 GMT"
     },
     {
       "title": "رالي داكار يضع المغرب في واجهة الرياضة العالمية - middle-east-online.com",
@@ -3949,17 +3938,6 @@
       "published": "Fri, 30 Oct 2026 13:26:38 GMT"
     },
     {
-      "title": "أقدام وشوارب وأصابع.. أغرب عقود التأمين على أجساد نجوم الرياضة العالمية - الجزيرة نت",
-      "summary": "أقدام وشوارب وأصابع.. أغرب عقود التأمين على أجساد نجوم الرياضة العالمية الجزيرة نت",
-      "image": "",
-      "author": "",
-      "language": "Arabic",
-      "category": "Sports",
-      "publisher": "الجزيرة نت",
-      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQVmRYSWRmOE9RY2ltVkgxM0ZDdUg3Tk43LVVISkxkc08yVzUycTExYzBWcjh2RV9WUlc4eUpGclJRZ1lhVmwxUW45M0xDYlJOVllPZ2RTXy1fa1lCcXNNaUw3d2VELUktampEdmlHWExDRzVCeHRXYmpDNkoyTGpmR2tRcGlBM3BBRC1tZmdnaFNsVkx4ZEVLX3Fub2RUVWo4dENYZEVick8yQU1PcWdTQnRkeDdudGZha1lLNWJmRXZjT2VHSlYydXhicHRQTVFFS2VzdzAtVEhDOFJRQkc5WnBHc0EzWnFfOExEN2NhOEU2bzhWcTdxSjh2NkxSbjI4WjVuXy1aQ2lzOXZUMDZjS1hDNXhyY2h3QlkxaVlrNGxQOTc0OTk4RDFjUzBKZkdpV2o2VTVYYXN1a2haajYyNVprRE1GX2w1MzVjUDlrQjQ5bDg3WlM0V2JSWQ?oc=5",
-      "published": "Fri, 09 Oct 2026 07:00:00 GMT"
-    },
-    {
       "title": "15 عاما من الاستثمار القطري.. كيف تحول باريس سان جيرمان لقوة رياضية واقتصادية عالمية؟ - منصة مشيرب",
       "summary": "15 عاما من الاستثمار القطري.. كيف تحول باريس سان جيرمان لقوة رياضية واقتصادية عالمية؟ منصة مشيرب",
       "image": "",
@@ -3969,50 +3947,6 @@
       "publisher": "منصة مشيرب",
       "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOTW5jbm5nY0VYRk05MkhaY0FrSjhjWHJEcnBPc2I4WmwtM0dXYUhHRmhDaXRlRklXZF8yck5VajNQY25SSG85RHoyLWlPWDdEdVJMcnVzM1ZMWUZsZ2hGLU5DTjhlYXI5V1FObVRld2JLT2Z2dEJqaFcyRHBQT3prVWtydjhkQi1feDF4NGxNR2dmZU9sZXZydXNNSThibXVjbEExekRvaWEwYXNUWXpsV3lnRWlZRGN6VGEwbTRhWm9IUnpYYmlXSzZZMkxlZjNPSXVCa3M0OEZVR1lqTkhKdndfeU5OSXp1Yi1uRTdJVm1DdHBRUXhwdzNLVnItaWFNME9uTlRDTEhuYzVqTV9FeGh3U2dyM1FVU2xESzd5d2pCU0xFVVFzelRmNjJSeW9HVE1RX2dmaVBzV19qRXk1ZHR4NDhtdWV5?oc=5",
       "published": "Wed, 04 Nov 2026 15:41:52 GMT"
-    },
-    {
-      "title": "تحت رعاية خالد بن محمد بن زايد.. النسخة الـ18 من \"بطولة أبوظبي العالمية لمحترفي الجوجيتسو\" تنطلق 9 نوفمبر - الاتحاد للأخبار",
-      "summary": "تحت رعاية خالد بن محمد بن زايد.. النسخة الـ18 من \"بطولة أبوظبي العالمية لمحترفي الجوجيتسو\" تنطلق 9 نوفمبر الاتحاد للأخبار",
-      "image": "",
-      "author": "",
-      "language": "Arabic",
-      "category": "Sports",
-      "publisher": "الاتحاد للأخبار",
-      "link": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxOazRtZk02akZGR01SNVZhYlRpV1NObE9zRmFDeldMdEV1QVY2eUUwMTJaZVZOaDFqTmhrZVBYYkRJaU9pd0NUcFZhWDFOeWc4RXhjeVB0dW03a210cWVRX1FxZ0tCczNJWDR1MWVjbGU0OTBFYWlfZjBOME9sTjA1b0N0TWlhM3NRYmFQcEpTZURQcHFMbjBJd084cGtqUHRjeWQzRjNrNjJBZmxINnk0RHpkOExGUm9FQmt5QXFYcE8yMHhBcHZ2Vzh4Y2JiTUZCOWVLRHQtbFZqVjF0QV8zS3ppQVcwQ0FSWDgybHROcWdGOEV2VUNiUFNMcTZHWFlxeFlFNWttS2F3c185QnFUcGpCNjVfXy1NaGZMcjhPZ3NzbTlVTjA2NU5JZDR1c0hrZEd6ODVoYnVxTmJRRVduV2FKMGVMWko1V3RqN1JlVjI1Z2VoSjJCRVlWU19QQUdkWlNzclFlM0pEaC1FM0w5YWN1SVJSSDNyblpNd0xMSWxrMjh0bmx2NXFpUjM2MEVxWUFLTVdYcm9QRnR3bFNvRV95OGlEWHBFa25PS0RZYjd0dEhJNmw3cjVFYTFabGxlZFBPbVBUekR2VGdDTE1lNDBMeFJ3amd6eHA3ZnBuT1NQZ3ZZOGItaGhxbHBVZ05PZUJHcURxb2FMQTJw?oc=5",
-      "published": "Wed, 04 Nov 2026 09:10:13 GMT"
-    },
-    {
-      "title": "الصين.. ثقل مالي في الرياضة العالمية يُضعف موقف الليغا وريال مدريد - العربي الجديد",
-      "summary": "الصين.. ثقل مالي في الرياضة العالمية يُضعف موقف الليغا وريال مدريد العربي الجديد",
-      "image": "",
-      "author": "",
-      "language": "Arabic",
-      "category": "Sports",
-      "publisher": "العربي الجديد",
-      "link": "https://news.google.com/rss/articles/CBMihARBVV95cUxPR1pOUThNMGJxZmN2aFJoWDVDMVdkU0JfS09yRmcxanpiWjMtSm9jMkNWS1dlUnFWNFRiWXlHN3IzXzBLemdoMkxVcHBYcVlQNUQ4cGVrbWo3dVRTSHZjSTdTUWMxUjFxQlNZYUwzMmcxbjRxLUVfMUVaQndlbXpQZElrNFY1SGhCeXQxd1dMX1lGa1gybVRNMG1JMmI2bEhrR0NkNkp6eEl5RWVBWjVWWUtsQnhIeG9BSEp2UkpFVzNTUTdULW4wLXRUZGJKeWhRNUN2clM4Mkh6X3hjV05tb3NjVl94cHF2ZXBWeV82UEFpcW1pM1RsRVdFUTlmZWZ6bkR0VlQ1NldjTjZhUjBZVTkxdGNwN29ENjJvZGg5TmVxSl9VNVpzdFlTbUFQeFo0SEY2YnBVc0ZmUUdfNmdQRFBuUTBBRUs1d3pGcEdibkltNnd2M2U0cXR6UC0wdTBOa045N2JKbnZsVHFtUnVtVEJoUkpDSlFmLUlhbkZXQUlXQ3Vkd3R4eGl6cW1wMDJPYVhlekhHRW5wSEZmRUpkVDgtaW9nV0RRZDJIOFp5MG1VdWpKckpXTlE3X2xraXFqR2hlRnFrQzgyTl9OZV9PSmphaHAtVGpvN1JUMkJ4Ukw2YWRxb3lkUGNuVWpGdnRFQU1acm5iWTJiNTNTR3hsTnFzRzDSAYoEQVVfeXFMTXZQM1l1d09KNlk2VTFRNEs0WURJejNTRnoyOE5lQkk3ZnI0VjE0ek9zaFMxbWpoUXk3QjYyZEhJRWQxeXh1VmtDdzJFWVgyUkpURjFlT25McmdsNXdLYS1FdkhDWU9OS0EtZmZXZFM3MzFMeVBWLUdNLWJ4TGgxRENEY2ZQZFlXellHaU1KeXIyWVA2NWhVVzNQVGRWYlJiNHFyTTV5T3hISFpnWWgtdXhpQTk1U19MUWVtRV9KOG5sTUJsdDFfX3lHNWdfS0hBaEU1UmI2eHRYcGFrekdMU1R5RlJtMXp2OGpKM0h2TlFZS1lDTnc3YzdmYmxTZnpSeFREZ25fMGNsVFhOcEFFcTlMaVc5TG1PUUdGZkEyQld1OFd6emtlNk5adWxUcTVMWEZvanVjanBFaG1JNU9pd0JNLWsxMWpKdm5wY3ZpTnVLLUJvTmRwdFhsU2ZhX3NLQk5WRmk5UzdZdHV2bUh1dzlXNWkzQWZXSkZ2NE8xcGNjM2w3bzd2RGZpTmxJVGV1S2hyck9YRmtlMVB0RDZYZ2FNdHJGMlV1Mk01d2E5ZmNYekFlOXdQekJfNjhwV1F0Sm93cnB0SU0xd2FLNndaNFBBVXA4Vkk5NU11VlRBclVyWnBJQVB5aXlKYnE1YWxCXzlhMWFlTEIzamNvQnlzUmlVNlVBdG9NdjZB?oc=5",
-      "published": "Thu, 29 Oct 2026 22:01:01 GMT"
-    },
-    {
-      "title": "الرياض تستضيف «مؤتمر الرياضة العالمية الجديدة 2026» - الشرق الأوسط",
-      "summary": "الرياض تستضيف «مؤتمر الرياضة العالمية الجديدة 2026» الشرق الأوسط",
-      "image": "",
-      "author": "",
-      "language": "Arabic",
-      "category": "Sports",
-      "publisher": "الشرق الأوسط",
-      "link": "https://news.google.com/rss/articles/CBMimgRBVV95cUxNUmxCMURpUmxSaElPUGZ1djBGWERUMlNDc1NBOXZ2NG5hVlNnZ2JQU3NGdjJKUHZjVGltMmtRdUVLLXBZbkNZVkNYeXNvVzJOSXRHM3ZJTjA1WHE3aTJsb2JEaWZ4OXo1UEp3Z1dYRnRSWFJvN290MHBoT1ZLSUVSamUxaFJFUEQ1UEsyUDlxNHM2RzlaVi1QZWlnSUlCM1hTdEYtUG1EZlNUei1VNllTQnBJdGVFOGNJdlpSRkwzVGIteHlpN252X3B4QnVEdHBqNzJJLU8yeTh2ZXNScFU0WEhieFBjWW8zOVNWWlBMVHN2bmVhc3E5VnRlLXNiWTQzZW94VEI1MzNKMjRjVTlKTWNqdEIwenloLXZCa2lvSGFNOTRDNmZtZkt5Ym12SlRfdWlmTGktNWJ0OFdZbDN3c2pHZUF6YTd3cXcyQVhMR1lUMWxXODBxLUc4RGtuYUpzQ2ZWT3BKbUhMWnhKa3B0WFR4c3g0dngxZmRZOG43WUgzY0VDX3Z2dnBqcG1TYnNXNm9CMkdnd3lXUEswX0NUSW13M0RHM3I1c2RRY25wVEZRRmJqU3pqbUc1OFBKRXozb25HanluenNyTGlXa3IzX1B1V3lITS1KX3FfU3hPTDFuZVAzaUlJc1c1b1ZvYjhiUThUbzl6cjdpcjN0amwtOTBwSmxwWkgzQUdNdjdNckNhTUh5VE9xaWNR?oc=5",
-      "published": "Mon, 29 Jun 2026 15:33:41 GMT"
-    },
-    {
-      "title": "الرياض تستضيف \"مؤتمر الرياضة العالمية الجديدة 2026\". - annahar.com",
-      "summary": "الرياض تستضيف \"مؤتمر الرياضة العالمية الجديدة 2026\". annahar.com",
-      "image": "",
-      "author": "",
-      "language": "Arabic",
-      "category": "Sports",
-      "publisher": "annahar.com",
-      "link": "https://news.google.com/rss/articles/CBMi3AVBVV95cUxOTXIwNWkyY3ppTW5IZmxJTjRQR2l3dWEyZi15OC1TY0w0YTdVMm1lakhiVGVNN3hVZGRkYWxqNHVfV20ydUpWNGR2VXUwRWZEUHFXUEtMdk9fMU9jaEhFSTBHNnRlS2JwcXlRZ3hCandlNmE5VHZ2OTFVVDd4UXpKMENFbVFpeEdENGtvS2NTb3NtSTFrM2VfVk5PTk12WkFndktiak52bkItUXZ6UGtkZDN2dFdMeWtldDh2ZUxZemIxRzluUXlVRjg3dWg3clRTZFI3N0ZzOFlEVkc3MUY0dmxCTGlLNEkxMk5hVmFKVmNVdU9IbVdYNlRVRHJvTGlJeUs2MDFTdDJzYmlfNHpFZVVOZEhVdWkyNkZDakRfTzQ3aW1MOGk0M29xcDcwNXllS0VRUVhyTEdUYk1wTnplYjBQYjNPSExJaXhJWldKcmMzeDVOdkZ1NFBycE1kdXVySFg4S29SZkl1UjN0SEJqSGFqYlFUaHo4TGdXSjRnMU5tVWVrckoydnVGaTZELU5KeC14ZTFiU3FOZUtIY0Z4Zzl1eHcweG9xa1ExU3F2NHhRaGdsNHRfX1ROOXRNTGVZUWZCVk4wMW5ZNUNSU3hSVGgzdnR5TG9EVjFETV9FaUFmb29nV2FJU053UXhwMnVvVTdiVEYwUUJiWmdtaXlkc0lBN19wSzJqZjVCY2p1YXo4b29tMVk5bkRGSTlxcXpKVV9FYWtEQWhxU25fZWZMVVRHdktMcllfVnh6VjNSaWd4bDUyVVNRUTIxNWJlTHlIc09TZXN1X3hTQzRORWtKY2tMSmZQSGt6ZDZocGc3VmdJR3FrbnVJVGJ0ejRubFBwMVZQVFlzeDFjcGVYRV9leEsyTF9CT2FCS1B3UUJqQ3FlWkFHaWJ6R0t0YmZESGcxeDdfNGc4Wk1aWlBaM3JPcUxfRkRTWmpkblo2R21mTmp1NGxfeTl5aG1XTmg?oc=5",
-      "published": "Mon, 29 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "«الجوجيتسو» يعلن تفاصيل النسخة الـ18 من «أبوظبي العالمية للمحترفين» - الاتحاد للأخبار",
@@ -4026,6 +3960,50 @@
       "published": "Thu, 05 Nov 2026 12:18:34 GMT"
     },
     {
+      "title": "رياضي / الرياض تستضيف \"مؤتمر الرياضة العالمية الجديدة 2026\" قبيل انطلاق كأس المنتخبات للرياضات الإلكترونية - وكالة الأنباء السعودية",
+      "summary": "رياضي / الرياض تستضيف \"مؤتمر الرياضة العالمية الجديدة 2026\" قبيل انطلاق كأس المنتخبات للرياضات الإلكترونية وكالة الأنباء السعودية",
+      "image": "",
+      "author": "",
+      "language": "Arabic",
+      "category": "Sports",
+      "publisher": "وكالة الأنباء السعودية",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBMY3B4VmRSZFRlRjhKT1VlWU0yLWNxVjNaOXZjWU9vYjEwaEt1dEZNeG9PeVl2cmZWeElXa2d0MHhkaVJrV2c?oc=5",
+      "published": "Mon, 29 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "أقدام وشوارب وأصابع.. أغرب عقود التأمين على أجساد نجوم الرياضة العالمية - الجزيرة نت",
+      "summary": "أقدام وشوارب وأصابع.. أغرب عقود التأمين على أجساد نجوم الرياضة العالمية الجزيرة نت",
+      "image": "",
+      "author": "",
+      "language": "Arabic",
+      "category": "Sports",
+      "publisher": "الجزيرة نت",
+      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQVmRYSWRmOE9RY2ltVkgxM0ZDdUg3Tk43LVVISkxkc08yVzUycTExYzBWcjh2RV9WUlc4eUpGclJRZ1lhVmwxUW45M0xDYlJOVllPZ2RTXy1fa1lCcXNNaUw3d2VELUktampEdmlHWExDRzVCeHRXYmpDNkoyTGpmR2tRcGlBM3BBRC1tZmdnaFNsVkx4ZEVLX3Fub2RUVWo4dENYZEVick8yQU1PcWdTQnRkeDdudGZha1lLNWJmRXZjT2VHSlYydXhicHRQTVFFS2VzdzAtVEhDOFJRQkc5WnBHc0EzWnFfOExEN2NhOEU2bzhWcTdxSjh2NkxSbjI4WjVuXy1aQ2lzOXZUMDZjS1hDNXhyY2h3QlkxaVlrNGxQOTc0OTk4RDFjUzBKZkdpV2o2VTVYYXN1a2haajYyNVprRE1GX2w1MzVjUDlrQjQ5bDg3WlM0V2JSWQ?oc=5",
+      "published": "Fri, 09 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "فيصل بن بندر بن سلطان: «نسخة باريس» أكدت المكانة العالمية المتنامية للرياضات الإلكترونية - الشرق الأوسط",
+      "summary": "فيصل بن بندر بن سلطان: «نسخة باريس» أكدت المكانة العالمية المتنامية للرياضات الإلكترونية الشرق الأوسط",
+      "image": "",
+      "author": "",
+      "language": "Arabic",
+      "category": "Sports",
+      "publisher": "الشرق الأوسط",
+      "link": "https://news.google.com/rss/articles/CBMikgVBVV95cUxOQk1BQXF0eFRUU2dDdWx4SHhVZUJROWtQTjN2QU1La2NvbWMtcW51QVRoMmxDUUNEb3lQMVNQREpSVF94VS1WWmR4d0VlbmtycVdHbFBKQ1ZCYzVDUlBfNGcwdS03OS10aE1xUUl1LUlnNUlQRVdlUjdSQk50c2pzcm1uRVl4RWRkN25VR1ppYUtpLVVCdkZIV0tZb3VGTFphNWlTb2czUDlmelNQcTlGT3BuSDFxRjgzMVAtYjdpLWotZk96X0ZPRXlrV1hJUUMxQ0h5MkI2MEJYRXJ3akZyaC01c09nV3pKNW84X1p3LTdHYkVvXzVpNTFJUFMxSkRLTll1anhPWHRRZnY0cVJuWUJqT2hBcEhKNW9fZkdiQW9YT28yUnBlaWc1UmIxcExyWWd5VGtsQ0VtNnhidDBVM0lUN2ZQYmpzTDFCY2FQa3FWSTgzck9jRWVRTkRqSnZlRXlaaGN1Tk9pTTFRYmw3aW11eWdDMWowaVBXN2p5dVJQS3htYy1RaGt4ZHEyUmhkOHcxVUtSMkFRMGlrWXRldi02UU5UOFRnNHFKYVE5NC1KSFNnSWhxeDRITGlhcGxIUnVIZGxiRXlGWGdGcjNPMWpuNFVuNzYwUUhXZTNXQWJzMUFZNjhMejB1M0JYMnhSNmVCVFlrcjFNdGxDVmhzUHN3ejJJRXkySmh5XzN1ajNrUHFkMG9xLWItY2d1Yzk2S2NpeGlMeWo3MzhVcVotdWlvdTNFblpPU3pDOUk2ZTA4N0VFZG1SMmRNUXE0YzdHcUt0UkhXTmlVNGlMSllNb0pRSVJwRFY3NHhNZFFJX3c0VUpqc0M0eDc4Z1JpS1NRM1JaTFpIT3dMeVVYSlFjamln?oc=5",
+      "published": "Sun, 23 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "الصين.. ثقل مالي في الرياضة العالمية يُضعف موقف الليغا وريال مدريد - العربي الجديد",
+      "summary": "الصين.. ثقل مالي في الرياضة العالمية يُضعف موقف الليغا وريال مدريد العربي الجديد",
+      "image": "",
+      "author": "",
+      "language": "Arabic",
+      "category": "Sports",
+      "publisher": "العربي الجديد",
+      "link": "https://news.google.com/rss/articles/CBMihARBVV95cUxPR1pOUThNMGJxZmN2aFJoWDVDMVdkU0JfS09yRmcxanpiWjMtSm9jMkNWS1dlUnFWNFRiWXlHN3IzXzBLemdoMkxVcHBYcVlQNUQ4cGVrbWo3dVRTSHZjSTdTUWMxUjFxQlNZYUwzMmcxbjRxLUVfMUVaQndlbXpQZElrNFY1SGhCeXQxd1dMX1lGa1gybVRNMG1JMmI2bEhrR0NkNkp6eEl5RWVBWjVWWUtsQnhIeG9BSEp2UkpFVzNTUTdULW4wLXRUZGJKeWhRNUN2clM4Mkh6X3hjV05tb3NjVl94cHF2ZXBWeV82UEFpcW1pM1RsRVdFUTlmZWZ6bkR0VlQ1NldjTjZhUjBZVTkxdGNwN29ENjJvZGg5TmVxSl9VNVpzdFlTbUFQeFo0SEY2YnBVc0ZmUUdfNmdQRFBuUTBBRUs1d3pGcEdibkltNnd2M2U0cXR6UC0wdTBOa045N2JKbnZsVHFtUnVtVEJoUkpDSlFmLUlhbkZXQUlXQ3Vkd3R4eGl6cW1wMDJPYVhlekhHRW5wSEZmRUpkVDgtaW9nV0RRZDJIOFp5MG1VdWpKckpXTlE3X2xraXFqR2hlRnFrQzgyTl9OZV9PSmphaHAtVGpvN1JUMkJ4Ukw2YWRxb3lkUGNuVWpGdnRFQU1acm5iWTJiNTNTR3hsTnFzRzDSAYoEQVVfeXFMTXZQM1l1d09KNlk2VTFRNEs0WURJejNTRnoyOE5lQkk3ZnI0VjE0ek9zaFMxbWpoUXk3QjYyZEhJRWQxeXh1VmtDdzJFWVgyUkpURjFlT25McmdsNXdLYS1FdkhDWU9OS0EtZmZXZFM3MzFMeVBWLUdNLWJ4TGgxRENEY2ZQZFlXellHaU1KeXIyWVA2NWhVVzNQVGRWYlJiNHFyTTV5T3hISFpnWWgtdXhpQTk1U19MUWVtRV9KOG5sTUJsdDFfX3lHNWdfS0hBaEU1UmI2eHRYcGFrekdMU1R5RlJtMXp2OGpKM0h2TlFZS1lDTnc3YzdmYmxTZnpSeFREZ25fMGNsVFhOcEFFcTlMaVc5TG1PUUdGZkEyQld1OFd6emtlNk5adWxUcTVMWEZvanVjanBFaG1JNU9pd0JNLWsxMWpKdm5wY3ZpTnVLLUJvTmRwdFhsU2ZhX3NLQk5WRmk5UzdZdHV2bUh1dzlXNWkzQWZXSkZ2NE8xcGNjM2w3bzd2RGZpTmxJVGV1S2hyck9YRmtlMVB0RDZYZ2FNdHJGMlV1Mk01d2E5ZmNYekFlOXdQekJfNjhwV1F0Sm93cnB0SU0xd2FLNndaNFBBVXA4Vkk5NU11VlRBclVyWnBJQVB5aXlKYnE1YWxCXzlhMWFlTEIzamNvQnlzUmlVNlVBdG9NdjZB?oc=5",
+      "published": "Thu, 29 Oct 2026 22:01:01 GMT"
+    },
+    {
       "title": "وزارة الداخلية تشارك ببطولة الألعاب العالمية للشرطة وتحقق مراكز متقدمة فى الجودو - اليوم السابع",
       "summary": "وزارة الداخلية تشارك ببطولة الألعاب العالمية للشرطة وتحقق مراكز متقدمة فى الجودو اليوم السابع",
       "image": "",
@@ -4035,28 +4013,6 @@
       "publisher": "اليوم السابع",
       "link": "https://news.google.com/rss/articles/CBMizgRBVV95cUxQZGZMYndnYktMMVFYSnl6UndHM0RUOExWWmN5U2FrZ2RyLU9VblFvQnF2Tk5iQXd1R2txNnpkM1pvdkZHdU1YcVItLVJLdjhwYXlBdDBQRnlXaERSb1R2VmVjbDNqOVE3aVlRLVlsNjZLRDVMLXlZYldjNkEzNHJRejBlR3dIZU5CX1BISGlENG4wMjJEM2h4S29yYXpPVTJuVEo5LXoxVHUtLTFHZnhJUl94YmlxSVlmd1FjUjVESWNIamxwMVowMWFXaFlNWWRWZ0xpdmpGdVNRUHZpTEdIOFJqNW1VOW11b2xLOUN1WEtMX2tJZGp0bFZoOHpDTGR1SUtyU2JJVk5mbkR5TEFpTnpmM0wyN2x6TFpnUkRUbml6M2lucXBxdFM3Q25UQ1ZkWGFjazYxcXFsRVBsenp5T1hhMVd0OHBkZjJVanpTbm5zc1hrckZkaU9ueHFVRldXY2VySnZQNVN4dThrZkYyY1dfel90SVkwZTR1WFFnWnpmZGt2N3FEXzBaNmYycndqcmRTbU0xNlU3VXV6ZWxJbmVudFVHZnhsNTdydkY4dTFOSlZkdGJZYzlJU1ppaTFibFhBVk11NzVrWTdUaWxuMXg4NmpQSWNBbTlFZURudGE1WWVSQ3dPemF2QW13UExXOVpCZlNTc2FrbGNfNnl6V0lEaGpGVS1vbExOTXVnNzdBVW9DV09QVExTaUQ3Q2hJME00LWdVMTVHc0FTMENub2FrY2JXZHN0V2VWSEs5TkV5eU1tZVU0aktxb3Zmd9IByARBVV95cUxNbURDRWhmUjlNMHBXX19jWUFndGVaTEtRWWViSUFPZXpxb2RqcVZZd01KOUhTZktRdFlRZXNkbk5uTWJZVG5nU2ZGSjhHS3BZMUZ5TjJKYUp3WGVXV2t0Q2hRcjJjZmFONUx3YldJc2tzOWxTeTR1SjMwQ3NHWTVDNkwxVXhpWnRmU0ZWQ19DRlRYbUllNFhZSFc0cTI1M2xnWWZEdGp1cWJsLWQ0dFBnMS1sNUF4dTBvQWI5VWQxem9BWkVzZUhkMHlrcExBaWdPUmx0YzNsWVdnaExYREJoV0JQaVl4TDlhOHpZemktX0JYNDNuNHpQZXl5U0FzajRsRU9rZFk0YndwbDQxNG9hZkQxS04zNmYzUjZBd1JMb1ZMZkxXdl83UTlZUmNEYWEzaXRCbDN3c1hXN2NyRlFPT3VFOVdrNDY3ZHpiN3RLbWpvb09JR2t2czlQVFVNam1mVl94YTZickNOY0FUS19zNm9rVlhRUXFXN25YckhBN1ZmZHJCM2NtdU1tbVhzd2todWM3ZnFiYUZkcnZaWGEtMm00djZoY2M2Qm5hUnFvVGp6M21pdkpFNjRmOFRxc3BCRXV6clZyTlpILXMtUVU2OU9MYWxleDRmekNCWmRTajdqX3dfMUhlMTI1eHppUHhNSnNVUElaRnNNWWt1WGpjOFN3WWotYVlsb0pjUnM1d25YcDBPeTA1Y0lESVBIWVRVdzRkaXdiLVNsUGtoMUF0dXloZGZfcHI1YXRNcDNjRUQ1WlB1M191Mw?oc=5",
       "published": "Thu, 05 Nov 2026 15:33:00 GMT"
-    },
-    {
-      "title": "قبل المونديال.. الرياض تستقبل مؤتمر «NGSC26» - صحيفة الرياضية",
-      "summary": "قبل المونديال.. الرياض تستقبل مؤتمر «NGSC26» صحيفة الرياضية",
-      "image": "",
-      "author": "",
-      "language": "Arabic",
-      "category": "Sports",
-      "publisher": "صحيفة الرياضية",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPZ0dRcnBqWUxYdjJQZ3Iwb2s4bE9NM3RUdlRrX0p0R3lwTHd0Q01XVjBLSjhldHpjNlkzdVVYOThXUm9zZGRERlUxWXNxQzR0LXNOZ0F2dWg2OENsYmF2bjUyNXh6NlVzNDRPTkRabS1YN0J0T20ySmtLNnBQbTVBSnNWNjM3bVcxQWVaY05UczZ4UFQ4bmtYY3ZMZ2g1Z0VMZ3lsQjVKNTBJUFpjNEw5cU95Y0M5TENZbWs1VjdFNXgyWmgwUXBINGlHVVg0X1ZGZG9vNGhJLUt3WHdlczJDQjJXcXBLbVlSUXNIRlFwTnVrdks5Y055R1pqdkdfYUdGaG1BMGF4bTNsV0lyQy00ckxhSzV6akFBWVVUcVVndnFjVTVHdkQ1alRtSzhwdWVKallJVmtvcDkzdndBV3VmZ3Y1bXI1cXhKR3oyanUtWQ?oc=5",
-      "published": "Mon, 29 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "كيف تركت حرب إيران بصمتها على الرياضة العالمية؟ - DW.com",
-      "summary": "كيف تركت حرب إيران بصمتها على الرياضة العالمية؟ DW.com",
-      "image": "",
-      "author": "",
-      "language": "Arabic",
-      "category": "Sports",
-      "publisher": "DW.com",
-      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPSGJSb3ltb2J0cmppZHhodG00LU00SFkyQktmNkxCMXMzU01QNFZwNG5UczNmR1dVX1ZmbkZLME5vZGlwWk93ckFwLU1iSE1ra3daaW5ZY3NFQ0NZeXd4X2w0Nm8xOTJCR1ZFeHp0VnFIOXNBQlJJRUxIQmJMa19vSkNjWXRnQnFOallNaElmYndWTGdLVzJFWklKU0k2bGlaVS1OY3h0bEw1UXg0R2JOWWVpX3RVQVNxTC1KMlo3Q1hreVVpTE8xOGlFMVdra1Jjb0EzcTd6SHRfdFZEMjJnM3Yyd1Q5ZWZUamRZME5jUTd0OEhNOGNlWjZqaUwwa1VjbWF5U0FpMktpQ0ViVFR0TzY1bzBqeTItWFNSU1ZuaUI1T0dkSnBwZkM1Z2dMNkxuRmRJbWc0M1Z4Q04wSjl5aHZxdjRBUG0tZmJESDFJZEdlSDI3M3dXRFB0b1VkemsyV1J2Z3FKc2VMSzdlaDBpLTVEZnJ6Ump6T1d1M0tEdGFxanRtYUZka1Fn0gGKA0FVX3lxTFB1NzF1aXdRSWxUckQ4UDljVlB1SXRzbVFjRnBzNzFPVk5zeHhHNUozOUYwWWpwV0JXdEJIRTNGSUpoSXdmcGVzMW03cnVfdlVjYmlYc1NjYk9RSWRkMnNveWlpLVRwU0RsVXprWTlCNEJFSjV3ZkdDU2lLNWZTM1lzZDZndWtHVWhWNFFxRkxHTWNzMWFMbmYxX29QWEVsTVlrR2RvZGd3T3NvZzZOOE1jUUtnQ3Y2UE54aFp5d1huYmMtRFEtWW1WRUl4aDVwNjlrdG5lN1J5Vk1OZEFOVE9TVjRhc1RpR05FVnlNMDI1VWJYWW9ndXMwUm5McFJ6ZnF2OHhPNzF0S3Q2M2g4LWl2dkVBUlBiYzVDT2NSS0hORTlZWW03TE52Nl9BZFhUbVBONE9XamhmZ1JSS2prLVEzRU1vTnl2SUo2Z2NqT2VvZU9yd21OX215YktRUWdGU1djaHdjdEZYRHFSWnZkZjItdGNRRHI2VDBPdHdOWURZSE5ERUpvNy1fYXc?oc=5",
-      "published": "Tue, 03 Mar 2026 08:00:00 GMT"
     },
     {
       "title": "مصر تنتزع وصافة العالم في السباحة بالزعانف للمياه المفتوحة للماسترز - بوابة أخبار اليوم الإلكترونية",
@@ -4090,6 +4046,50 @@
       "publisher": "البيان",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DUTlTQU5sQlptVHEyVDZCbmk0cm5PVUQzU0lzMjdXbDVtQXlDMEN0a040ekJiM1NLcFpUcDRWZkgyRXpqelZXQXY4a09xQTNVOUhsRHRqLWE3Ymc?oc=5",
       "published": "Thu, 05 Nov 2026 12:35:00 GMT"
+    },
+    {
+      "title": "الرياض تستضيف «مؤتمر الرياضة العالمية الجديدة 2026» - الشرق الأوسط",
+      "summary": "الرياض تستضيف «مؤتمر الرياضة العالمية الجديدة 2026» الشرق الأوسط",
+      "image": "",
+      "author": "",
+      "language": "Arabic",
+      "category": "Sports",
+      "publisher": "الشرق الأوسط",
+      "link": "https://news.google.com/rss/articles/CBMimgRBVV95cUxNUmxCMURpUmxSaElPUGZ1djBGWERUMlNDc1NBOXZ2NG5hVlNnZ2JQU3NGdjJKUHZjVGltMmtRdUVLLXBZbkNZVkNYeXNvVzJOSXRHM3ZJTjA1WHE3aTJsb2JEaWZ4OXo1UEp3Z1dYRnRSWFJvN290MHBoT1ZLSUVSamUxaFJFUEQ1UEsyUDlxNHM2RzlaVi1QZWlnSUlCM1hTdEYtUG1EZlNUei1VNllTQnBJdGVFOGNJdlpSRkwzVGIteHlpN252X3B4QnVEdHBqNzJJLU8yeTh2ZXNScFU0WEhieFBjWW8zOVNWWlBMVHN2bmVhc3E5VnRlLXNiWTQzZW94VEI1MzNKMjRjVTlKTWNqdEIwenloLXZCa2lvSGFNOTRDNmZtZkt5Ym12SlRfdWlmTGktNWJ0OFdZbDN3c2pHZUF6YTd3cXcyQVhMR1lUMWxXODBxLUc4RGtuYUpzQ2ZWT3BKbUhMWnhKa3B0WFR4c3g0dngxZmRZOG43WUgzY0VDX3Z2dnBqcG1TYnNXNm9CMkdnd3lXUEswX0NUSW13M0RHM3I1c2RRY25wVEZRRmJqU3pqbUc1OFBKRXozb25HanluenNyTGlXa3IzX1B1V3lITS1KX3FfU3hPTDFuZVAzaUlJc1c1b1ZvYjhiUThUbzl6cjdpcjN0amwtOTBwSmxwWkgzQUdNdjdNckNhTUh5VE9xaWNR?oc=5",
+      "published": "Mon, 29 Jun 2026 15:33:41 GMT"
+    },
+    {
+      "title": "الرياض تستضيف \"مؤتمر الرياضة العالمية الجديدة 2026\". - annahar.com",
+      "summary": "الرياض تستضيف \"مؤتمر الرياضة العالمية الجديدة 2026\". annahar.com",
+      "image": "",
+      "author": "",
+      "language": "Arabic",
+      "category": "Sports",
+      "publisher": "annahar.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AVBVV95cUxOTXIwNWkyY3ppTW5IZmxJTjRQR2l3dWEyZi15OC1TY0w0YTdVMm1lakhiVGVNN3hVZGRkYWxqNHVfV20ydUpWNGR2VXUwRWZEUHFXUEtMdk9fMU9jaEhFSTBHNnRlS2JwcXlRZ3hCandlNmE5VHZ2OTFVVDd4UXpKMENFbVFpeEdENGtvS2NTb3NtSTFrM2VfVk5PTk12WkFndktiak52bkItUXZ6UGtkZDN2dFdMeWtldDh2ZUxZemIxRzluUXlVRjg3dWg3clRTZFI3N0ZzOFlEVkc3MUY0dmxCTGlLNEkxMk5hVmFKVmNVdU9IbVdYNlRVRHJvTGlJeUs2MDFTdDJzYmlfNHpFZVVOZEhVdWkyNkZDakRfTzQ3aW1MOGk0M29xcDcwNXllS0VRUVhyTEdUYk1wTnplYjBQYjNPSExJaXhJWldKcmMzeDVOdkZ1NFBycE1kdXVySFg4S29SZkl1UjN0SEJqSGFqYlFUaHo4TGdXSjRnMU5tVWVrckoydnVGaTZELU5KeC14ZTFiU3FOZUtIY0Z4Zzl1eHcweG9xa1ExU3F2NHhRaGdsNHRfX1ROOXRNTGVZUWZCVk4wMW5ZNUNSU3hSVGgzdnR5TG9EVjFETV9FaUFmb29nV2FJU053UXhwMnVvVTdiVEYwUUJiWmdtaXlkc0lBN19wSzJqZjVCY2p1YXo4b29tMVk5bkRGSTlxcXpKVV9FYWtEQWhxU25fZWZMVVRHdktMcllfVnh6VjNSaWd4bDUyVVNRUTIxNWJlTHlIc09TZXN1X3hTQzRORWtKY2tMSmZQSGt6ZDZocGc3VmdJR3FrbnVJVGJ0ejRubFBwMVZQVFlzeDFjcGVYRV9leEsyTF9CT2FCS1B3UUJqQ3FlWkFHaWJ6R0t0YmZESGcxeDdfNGc4Wk1aWlBaM3JPcUxfRkRTWmpkblo2R21mTmp1NGxfeTl5aG1XTmg?oc=5",
+      "published": "Mon, 29 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "قبل المونديال.. الرياض تستقبل مؤتمر «NGSC26» - صحيفة الرياضية",
+      "summary": "قبل المونديال.. الرياض تستقبل مؤتمر «NGSC26» صحيفة الرياضية",
+      "image": "",
+      "author": "",
+      "language": "Arabic",
+      "category": "Sports",
+      "publisher": "صحيفة الرياضية",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPZ0dRcnBqWUxYdjJQZ3Iwb2s4bE9NM3RUdlRrX0p0R3lwTHd0Q01XVjBLSjhldHpjNlkzdVVYOThXUm9zZGRERlUxWXNxQzR0LXNOZ0F2dWg2OENsYmF2bjUyNXh6NlVzNDRPTkRabS1YN0J0T20ySmtLNnBQbTVBSnNWNjM3bVcxQWVaY05UczZ4UFQ4bmtYY3ZMZ2g1Z0VMZ3lsQjVKNTBJUFpjNEw5cU95Y0M5TENZbWs1VjdFNXgyWmgwUXBINGlHVVg0X1ZGZG9vNGhJLUt3WHdlczJDQjJXcXBLbVlSUXNIRlFwTnVrdks5Y055R1pqdkdfYUdGaG1BMGF4bTNsV0lyQy00ckxhSzV6akFBWVVUcVVndnFjVTVHdkQ1alRtSzhwdWVKallJVmtvcDkzdndBV3VmZ3Y1bXI1cXhKR3oyanUtWQ?oc=5",
+      "published": "Mon, 29 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "الخبرات الوطنيـة أسهمت في ترسيخ مكانـة البحرين على خريطة الرياضة العالمية - الأيام البحرينية",
+      "summary": "الخبرات الوطنيـة أسهمت في ترسيخ مكانـة البحرين على خريطة الرياضة العالمية الأيام البحرينية",
+      "image": "",
+      "author": "",
+      "language": "Arabic",
+      "category": "Sports",
+      "publisher": "الأيام البحرينية",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03TkxObjZpX3duakNsdHpCTUF4NjRfeV9kVEtldWZFYWN6dUNtblJiS1AtTnVzUVU1ZHp5RmVwUmlidldIUFotNDZJZ0Nsd0hRMDJzMkFOX1hrWWhYSUVlXzg0UQ?oc=5",
+      "published": "Sun, 04 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "بمناسبة يوم البيئة العالمي.. دول الخليج العربي وإشكالية تغير المناخ - أخبار الخليج",
